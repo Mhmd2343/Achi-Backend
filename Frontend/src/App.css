@@ -1,0 +1,980 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@200;400;600&family=Rubik:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;300;400;500;600;700&family=Saira+Stencil+One&family=Saira:ital,wght@0,200;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure Font Awesome icons display correctly */
+.fa-solid,
+.fa-brands,
+.fa-regular {
+  font-family: "Font Awesome 6 Free" !important;
+  font-weight: 900;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+
+:root {
+  --app-font: "Open Sans", Arial, Helvetica, sans-serif;
+  
+  /* Color Variables - Section Headers */
+  --section-header-blue: #003A80;
+  
+  /* Typography Scale - Single Source of Truth */
+  --font-body: 16px;
+  --line-body: 1.6;
+  
+  /* Headings (responsive with clamp) */
+  --h1: clamp(32px, 3.2vw, 48px);
+  --h2: clamp(26px, 2.6vw, 36px);
+  --h3: clamp(20px, 2.0vw, 28px);
+  --h4: 18px;
+  --h5: 16px;
+  --h6: 14px;
+  
+  /* Text */
+  --p: 16px;
+  --small: 14px;
+  
+  /* Line Heights */
+  --line-h1: 1.15;
+  --line-h2: 1.2;
+  --line-h3: 1.25;
+  --line-h4: 1.3;
+  --line-h5: 1.35;
+  --line-h6: 1.4;
+  --line-p: 1.6;
+}
+
+/* Force Open Sans globally - placed AFTER Tailwind layers for maximum specificity */
+html, body, #root {
+  font-family: var(--app-font) !important;
+}
+
+/* Global font inheritance - but allow Font Awesome to override */
+*:not(.fa-solid):not(.fa-brands):not(.fa-regular):not([class*="fa-"]) {
+  font-family: var(--app-font) !important;
+}
+
+button, input, textarea, select, a, p, span, div, h1, h2, h3, h4, h5, h6, li, ul, ol, nav, header, footer, section, article, aside, main {
+  font-family: var(--app-font) !important;
+}
+
+@layer base {
+  html, body {
+    font-family: var(--app-font) !important;
+    font-size: var(--font-body);
+    line-height: var(--line-body);
+  }
+  
+  body, #root {
+    font-family: var(--app-font) !important;
+    font-weight: 400; /* Default body weight */
+  }
+  
+  /* Global Typography - Semantic HTML Elements */
+  h1 {
+    font-size: var(--h1);
+    line-height: var(--line-h1);
+    margin: 0 0 0.6em;
+    font-weight: 700;
+    font-family: var(--app-font) !important;
+  }
+  
+  h2 {
+    font-size: var(--h2);
+    line-height: var(--line-h2);
+    margin: 0 0 0.6em;
+    font-weight: 700;
+    font-family: var(--app-font) !important;
+  }
+  
+  h3 {
+    font-size: var(--h3);
+    line-height: var(--line-h3);
+    margin: 0 0 0.6em;
+    font-weight: 600;
+    font-family: var(--app-font) !important;
+  }
+  
+  h4 {
+    font-size: var(--h4);
+    line-height: var(--line-h4);
+    margin: 0 0 0.6em;
+    font-weight: 600;
+    font-family: var(--app-font) !important;
+  }
+  
+  h5 {
+    font-size: var(--h5);
+    line-height: var(--line-h5);
+    margin: 0 0 0.6em;
+    font-weight: 600;
+    font-family: var(--app-font) !important;
+  }
+  
+  h6 {
+    font-size: var(--h6);
+    line-height: var(--line-h6);
+    margin: 0 0 0.6em;
+    font-weight: 600;
+    font-family: var(--app-font) !important;
+  }
+  
+  p {
+    font-size: var(--p);
+    line-height: var(--line-p);
+    margin: 0 0 1em;
+    font-weight: 400;
+    font-family: var(--app-font) !important;
+  }
+  
+  small {
+    font-size: var(--small);
+    line-height: var(--line-p);
+    font-family: var(--app-font) !important;
+  }
+  
+  /* Navigation links - weight 600 */
+  nav a, nav button, nav li {
+    font-weight: 600;
+    font-family: var(--app-font) !important;
+  }
+  
+  /* Ensure form controls and interactive elements inherit */
+  button, input, textarea, select, a {
+    font-family: inherit !important;
+    font-size: inherit;
+  }
+}
+
+/* Override all custom font classes to use Open Sans */
+.font-saira,
+.font-rajdhani,
+.font-rubik,
+.font-inter,
+.font-poppins,
+.font-fira,
+.font-russo,
+.font-sairaStencil,
+.font-nunito,
+.font-spartan {
+  font-family: var(--app-font) !important;
+}
+
+/* Ensure nav elements use weight 600 */
+nav a,
+nav button,
+nav li,
+header a,
+header button,
+header nav a,
+header nav button {
+  font-weight: 600 !important;
+  font-family: var(--app-font) !important;
+}
+
+/* Font Awesome icons must keep their font (already defined above, but ensure specificity) */
+.fa-solid,
+.fa-brands,
+.fa-regular,
+[class*="fa-"] {
+  font-family: "Font Awesome 6 Free" !important;
+}
+
+/* Language Toggle Buttons - Square buttons like sparer-bz.it */
+.lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.lang-btn {
+  width: 34px;
+  height: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  border-radius: 0;
+  background: transparent;
+  color: #fff;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  line-height: 1;
+  font-family: var(--app-font) !important;
+  transition: all 0.2s ease;
+  padding: 0;
+}
+
+.lang-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.lang-btn.is-active {
+  background: #fff;
+  color: #28509E;
+  border-color: #fff;
+}
+
+/* Responsive: smaller buttons on mobile */
+@media (max-width: 768px) {
+  .lang-btn {
+    width: 30px;
+    height: 30px;
+    font-size: 11px;
+  }
+}
+
+/* Service cards: ensure no border-radius inheritance */
+.shadow-servicesCard,
+.shadow-servicesCard *,
+.shadow-servicesCard img {
+  border-radius: 0 !important;
+}
+
+/* Blog cards: ensure sharp corners on images */
+[data-blog-card="true"] img,
+[data-blog-image-wrapper="true"],
+[data-blog-image-wrapper="true"] img,
+[data-blog-image="true"],
+.blogCard img,
+.blogCard .blogCardMedia,
+.blogCard .blogCardMedia img,
+.blog-square-media,
+.blog-square-media img {
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+}
+
+/* Header top bar alignment fixes - override global styles */
+.header-top-bar {
+  line-height: 1 !important;
+}
+
+.header-top-bar > div[class*="flex"] > div[class*="inline-flex"] {
+  display: inline-flex !important;
+  align-items: center !important;
+  line-height: 1 !important;
+}
+
+.header-top-bar img {
+  display: block !important;
+  flex-shrink: 0 !important;
+  object-fit: contain !important;
+}
+
+.header-top-bar span {
+  display: inline-block !important;
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.header-top-bar svg {
+  display: block !important;
+  flex-shrink: 0 !important;
+}
+
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: 'Spartan';
+  src: local('Spartan'), url(../public/fonts/Spartan-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-weight: 100;
+  src: local('Spartan'), url(../public/fonts/Spartan-Thin.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-weight: 200;
+  src: local('Spartan'), url(../public/fonts/Spartan-ExtraLight.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-weight: 300;
+  src: local('Spartan'), url(../public/fonts/Spartan-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-weight: 400;
+  src: local('Spartan'), url(../public/fonts/Spartan-Medium.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-weight: 500;
+  src: local('Spartan'), url(../public/fonts/Spartan-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-weight: 600;
+  src: local('Spartan'), url(../public/fonts/Spartan-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-weight: 700;
+  src: local('Spartan'), url(../public/fonts/Spartan-ExtraBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-weight: 900;
+  src: local('Spartan'), url(../public/fonts/Spartan-Black.ttf) format('truetype');
+}
+
+
+#root {
+  white-space: pre-line;
+}
+
+.App {
+  font-family: var(--app-font) !important;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+#service .slick-slide {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.slick-arrow::before {
+  content: '' !important;
+}
+
+[dir="rtl"] .slick-next {
+  left: auto !important;
+}
+
+#service .slick-prev, #service .slick-next {
+  width: 40px !important;
+  top: 55px !important;
+}
+
+#service .slick-prev {
+  left: 25% !important;
+  z-index: 9999;
+}
+
+#service .slick-next {
+  right: 25% !important;
+}
+
+#clients .slick-prev, #clients .slick-next {
+  width: 40px !important;
+  top: 45% !important;
+  z-index: 9999;
+}
+
+#clients .slick-prev {
+  left: 15px !important;
+  z-index: 9999;
+}
+
+#clients .slick-next {
+  right: 15px !important;
+  z-index: 9999;
+}
+
+
+#service .slick-disabled img {
+  opacity: 0.5;
+}
+
+
+#hero .slick-next {
+  right: 10px !important;
+}
+
+#hero .slick-prev, #hero .slick-next {
+  width: 40px !important;
+  height: 40px !important;
+  z-index: 99;
+}
+
+#hero .slick-prev {
+  left: 10px !important;
+}
+
+#hero .slick-dots {
+  bottom: 40px !important;
+}
+
+#hero .slick-dots li button::before {
+  font-size: 13px !important;
+  opacity: 0.7;
+  color: #ccc !important;
+}
+
+#hero .slick-dots li.slick-active button::before {
+  color: #3366a7 !important;
+}
+#hero .slick-disabled {
+  display: none !important;
+}
+@media screen and (max-width: 767px) {
+  #hero .slick-prev, #hero .slick-next {
+    display: none !important;
+  }
+}
+
+.glider-prev , .glider-next {
+  background: #28509E !important;
+  padding: 5px !important;
+  border-radius: 15px;
+  color: white !important;
+  opacity: 0.6 !important;
+}
+
+.react-images__view-image.react-images__view-image--isModal {
+  margin: 0 auto !important;
+}
+
+.glider-prev:hover , .glider-next:hover {
+  opacity: 1 !important;
+}
+
+
+.glider-next.disabled, .glider-prev.disabled {
+  display: none;
+}
+
+.glider-prev {
+  left: 10px !important;
+}
+
+.glider-next {
+  right: 10px !important;
+}
+
+.glider-dot.active {
+  background: #3366A7 !important;
+}
+
+.glider-dot {
+  background: #FFFFFF80 !important;
+}
+
+.myDots  {
+  position: relative !important;
+  top: -50px !important;
+}
+
+.heroBtn {
+  animation: glowing 2300ms infinite;
+}
+
+@media screen and (max-width: 1160px) {
+  #service .slick-prev {
+    left: 20% !important;
+  }
+  
+  #service .slick-next {
+    right: 20% !important;
+  }
+}
+@media screen and (max-width: 1023px) {
+  #service .slick-prev, #service .slick-next {
+    width: 35px !important;
+    top: 46px !important;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  #service .slick-prev {
+    left: 15% !important;
+  }
+  
+  #service .slick-next {
+    right: 15% !important;
+  }
+
+}
+@media screen and (max-width: 735px) {
+  #service .slick-prev {
+    left: 10% !important;
+  }
+  
+  #service .slick-next {
+    right: 10% !important;
+  }
+}
+@media screen and (max-width: 639px) {
+  #service .slick-prev, #service .slick-next {
+    width: 30px !important;
+    top: 50px !important;
+    z-index: 9999999;
+  }
+
+  #clients .slick-prev, #clients .slick-next {
+    width: 30px !important;
+    top: 40% !important;
+    z-index: 9999;
+  }
+
+
+  #service .slick-prev {
+    left: 5% !important;
+  }
+  
+  #service .slick-next {
+    right: 5% !important;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  #service .slick-prev {
+    left: 5% !important;
+  }
+  
+  #service .slick-next {
+    right: 5% !important;
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+  #service .slick-prev {
+    left: 1% !important;
+  }
+  
+  #service .slick-next {
+    right: 1% !important;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  #service .glider-prev , #service .glider-next {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 768px) {
+  #service .glider-prev , #service .glider-next {
+    top: 350px !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #service .glider-prev , #service .glider-next {
+    top: 300px !important;
+  }
+}
+
+
+.whatsapplogo::before, .whatsapplogo::after {
+
+  position: absolute;
+  content: '';
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  border-radius: 50%;
+  box-shadow: 0 0 15px #0dc143;
+  animation: whatsapplogo 2s ease-out infinite;
+
+}
+
+.serviceContainer:hover .svgserviceIcon path {
+  fill: #ff8e26;
+  stroke: #ff8e26;
+  transition: all;
+  transition-duration: 500ms;
+}
+
+@keyframes whatsapplogo {
+  0% {
+    opacity: 0;
+    transform: scale(1);
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+
+.callbutton::before, .callbutton::after {
+  position: absolute;
+  content: '';
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.8);
+  animation: callbuttonGlow 2s ease-out infinite;
+}
+
+@keyframes callbuttonGlow {
+  0% {
+    opacity: 0;
+    transform: scale(1);
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+
+@keyframes glowing {
+  0% {
+    background-color: #28509E;
+    border: 1px solid #25D366;
+  }
+  100% {
+    background: #60d669; 
+    border: 1px solid #25D366;
+  }
+}
+#clients .slick-track img {
+  width: 50% !important;
+}
+
+#clients .slick-track {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+
+.snip1533 *,
+.snip1533 *:before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+
+.snip1533 figcaption {
+  padding: 10% 5% 6%;
+}
+
+.snip1533 figcaption:before {
+  transform: translateX(-50%);
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 50%;
+  top: -20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrowTesti{
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 15px solid white;
+  position: relative;
+  top: 15px;
+  left: 49%;
+}
+
+#testimonials .slick-arrow {
+  display: none !important;
+}
+
+/* Scrollbar hide utility for horizontal scrolling tabs */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Sectors page: Consistent text alignment across all languages */
+/* Target sector cards - ensure titles and descriptions align consistently */
+#sectors main > section:nth-of-type(2) article h2,
+#sectors main > section:nth-of-type(2) article p {
+  text-align: start !important;
+  direction: ltr !important;
+}
+
+/* Arabic text rendering fix - proper RTL flow with punctuation at sentence end */
+/* Use embed to allow bidirectional algorithm to correctly place punctuation */
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article h2,
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article p {
+  direction: rtl !important;
+  text-align: right !important;
+  unicode-bidi: embed !important;
+}
+
+/* Remove any pseudo-elements that might cause dots before Arabic text */
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article h2::before,
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article h2::after,
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article p::before,
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article p::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Disable list markers if any exist (safety measure) */
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article ul,
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article ol,
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article li {
+  list-style: none !important;
+  padding-inline-start: 0 !important;
+  margin: 0 !important;
+}
+
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article li::marker {
+  content: "" !important;
+  display: none !important;
+}
+
+/* Ensure nested elements inherit proper RTL direction and allow bidi algorithm to work */
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article h2 *,
+html[dir="rtl"] #sectors main > section:nth-of-type(2) article p * {
+  unicode-bidi: embed !important;
+  direction: inherit !important;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+#testimonials .slick-dots li.slick-active button::before ,
+#testimonials .slick-dots li button:hover::before {
+  color: #FF8E26 !important;
+}
+
+
+#testimonials .slick-slide.slick-current .snip1533 figcaption:before,
+#testimonials .slick-slide.myslick-current .snip1533 figcaption:before {
+  content: url(../public/assets/quoteactive.svg) !important;
+}
+#testimonials .slick-slide .snip1533 figcaption:before {
+  content: url(../public/assets/quoteblue.svg) !important;
+}
+
+#testimonials .slick-slide {
+  transition: all 0.3s ease-in-out;
+}
+
+#testimonials .slick-slide {
+  padding: 30px;
+}
+
+#testimonials .slick-slide.slick-current,
+#testimonials .slick-slide.myslick-current {
+  padding: 0px 30px !important;
+}
+
+
+@media screen and (max-width: 1000px) {
+  #testimonials .slick-slide {
+    padding: 10px;
+    padding-right: 20px !important;
+  }
+  
+  #testimonials .slick-slide.slick-current,
+  #testimonials .slick-slide.myslick-current {
+    padding: 0px 10px !important;
+  }
+  
+}
+
+@media screen and (max-width: 900px) {
+  #testimonials .slick-slide {
+    padding: 0px 10px !important;
+  }
+  
+  #testimonials .slick-slide.slick-current,
+  #testimonials .slick-slide.myslick-current {
+    padding: 0px 10px !important;
+    padding-right: 30px !important;
+  }
+  
+}
+
+#WhychoseUs .slick-slide {
+  padding: 0px 30px;
+  height: inherit !important;
+}
+
+#hero .slick-slide {
+  height: inherit !important;
+}
+
+#WhychoseUs .slick-arrow {
+  display: none !important;
+}
+
+#WhychoseUs .slick-slide > div , #hero .slick-slide > div {
+  height: 100% !important;
+}
+
+#WhychoseUs .slick-slide > div > div {
+  display: flex !important;
+}
+
+#WhychoseUs .slick-track , #hero .slick-track {
+  height: auto !important;
+  display: flex !important;
+}
+
+
+@media screen and (max-width: 650px) {
+  #WhychoseUs .slick-slide {
+    padding: 0px 10px;
+    height: inherit !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #WhychoseUs .slick-slide {
+    padding: 0px 20px;
+    height: inherit !important;
+  }
+}
+
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.slick-list {
+  overflow: hidden !important;
+}
+
+.slick-track {
+  overflow: hidden !important;
+}
+@media screen and (max-width: 768px) {
+  #testimonials .slick-slide {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  #clientsSection .slick-track img {
+    width: 100% !important;
+  }
+
+  #clientsSection .slick-slide {
+    display: flex !important;
+    justify-content: center !important;
+  }
+}
+/* REMOVE slick default arrow circles */
+#clientsSection .slick-prev,
+#clientsSection .slick-next {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+#clientsSection .slick-prev::before,
+#clientsSection .slick-next::before {
+  display: none !important;
+  content: none !important;
+}
+
+/* REMOVE browser button styles */
+#clientsSection button {
+  background: transparent !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  appearance: none !important;
+  -webkit-appearance: none !important;
+}
+
+/* REMOVE focus ring */
+#clientsSection button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Scroll margin for anchor navigation with fixed header */
+/* Apply scroll-margin-top to elements that might be anchor targets */
+h1[id],
+h2[id],
+h3[id],
+h4[id],
+h5[id],
+h6[id],
+section[id],
+div[id],
+[id] {
+  scroll-margin-top: 120px; /* Approximate header height + spacing */
+}
+
+/* On home page, reduce scroll margin since header is absolute */
+body.home-page h1[id],
+body.home-page h2[id],
+body.home-page h3[id],
+body.home-page h4[id],
+body.home-page h5[id],
+body.home-page h6[id],
+body.home-page section[id],
+body.home-page div[id] {
+  scroll-margin-top: 20px;
+}

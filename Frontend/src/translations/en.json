@@ -1,0 +1,1504 @@
+{
+  "header": {
+    "Lebanon": "Lebanon"
+  },
+  "langDropwn": {
+    "arabic": "Arabic",
+    "english": "English",
+    "french": "French"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "services": "Services",
+    "products": "Systems & Equipment",
+    "sectors": "Sectors",
+    "clients": "Clients",
+    "projects": "Projects",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "careers": "Careers",
+    "contact": "Contact us",
+    "marketplace": "Marketplace",
+    "openTime": "We are open from Monday to Saturday from 7:30 to 6pm",
+    "copyright": "VAT number: 17231971007 © 2024 Achi Ponteggi. All rights reserved"
+  },
+  "banner1": {
+    "title": "Scaffolding & Temporary Works Contractor",
+    "subtitle": "Engineering-led scaffolding solutions for construction, industrial, and event projects delivered with precision and reliability in Lebanon.",
+    "button": "Request Project Support"
+  },
+  "service": {
+    "title": "Our Services",
+    "firstService": "Installation and rental of scaffolding for Facades",
+    "secondService": "Installation and rental of Suspended scaffolding",
+    "thirdService": "Propping and shoring systems",
+    "fourthService": "Installation and rental of scaffolding for indoor spaces",
+    "fifthService": "Installation and rental of high capacity structures",
+    "sixthService": "Adjustable props rental & Sales",
+    "seventhService": "Scaffolding design",
+    "eighthService": "Digital services",
+    "ninthService": "Specialized Laborforce",
+    "tenthService": "High Rise Scaffolding",
+    "eleventhService": "Circular & Dome Scaffolding",
+    "twelfthService": "Scaffolding for Events",
+    "thirteenthService": "Industrial Scaffolding",
+    "fourteenthService": "Roof Scaffolding",
+    "fifteenthService": "Mobile Suspended Scaffolding (for Bridges)",
+    "sixteenthService": "Scaffolding Access Stairs",
+    "seventeenthService": "Unloading & Loading Platforms",
+    "contactBtn": "Contact us",
+    "title2": "Professionals initiative",
+    "title2br": "Professionals \ninitiative"
+  },
+  "aboutUs": {
+    "titleMultiLine": "33+ of Scaffolding Experience",
+    "title": "33+ of Scaffolding Experience",
+    "description": "Since 1993, ACHI Scaffolding has delivered engineered scaffolding and temporary works solutions across Lebanon. \nOur experience spans construction, industrial, and complex urban projects, where reliability, safety, and execution discipline are critical.",
+    "button": "Learn more about us"
+  },
+  "clients": {
+    "title": "Clients Overview",
+    "description":"ACHI Scaffolding supports contractors, developers, and engineers with execution-ready access systems and scaffolding solutions across construction and industrial projects."
+  },
+  "vision": {
+    "title": "Our vision",
+    "description": "At Achi Scaffolding, we're charting a visionary course towards a future where scaffolding isn't merely a structural necessity; it's an embodiment of innovation, unparalleled safety, and sustainable advancement, defining the infrastructure of tomorrow.",
+    "btnText": "invest with us"
+  },
+  "mission": {
+    "title": "the mission",
+    "description": "We specialize in comprehensive scaffolding services, from rental to installation,\n and sell and export a diverse range of new and used construction equipment in the Middle East and Africa.",
+    "btnText": "let's talk"
+  },
+  "values": {
+    "title": "Values",
+    "firstValueTitle": "Safety First",
+    "firstValueDescription": "Ensuring a safe environment for our workers and clients is paramount.",
+    "secondValueTitle": "Quality Commitment",
+    "secondValueDescription": "We deliver only the highest quality in all our projects.",
+    "thirdValueTitle": "Innovation",
+    "thirdValueDescription": "We embrace the latest technologies and methodologies in the scaffolding industry.",
+    "fourthValueTitle": "Sustainability",
+    "fourthValueDescription": "We prioritize eco-friendly practices for a better future",
+    "fifthValueTitle": "Partnership",
+    "fifthValueDescription": "Building strong and lasting relationships with our clients and suppliers.",
+    "sixthValueTitle": "Integrity",
+    "sixthValueDescription": "We operate with transparency, honesty, and ethical standards."
+  },
+  "testimonials": {
+    "title": "What our clients say about us"
+  },
+  "contactForm": {
+    "hero": {
+      "title": "Let's Discuss Your Project Requirements",
+      "subline": "From technical load calculations to site delivery, our engineers are ready to support your project across Lebanon."
+    },
+    "form": {
+      "title": "Technical Intake Form",
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter your name"
+      },
+      "surname": {
+        "label": "Surname",
+        "placeholder": "Enter your surname"
+      },
+      "company": {
+        "label": "Company Name",
+        "placeholder": "Enter your company name"
+      },
+      "phone": {
+        "label": "Phone Number / Mobile",
+        "placeholder": "Enter your phone number"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Enter your email address"
+      },
+      "location": {
+        "label": "Project Location",
+        "placeholder": "Enter project location (optional)"
+      },
+      "service": {
+        "label": "Service Required",
+        "placeholder": "Select a service",
+        "options": {
+          "facade": "Scaffolding for Facades",
+          "suspended": "Suspended Scaffolding",
+          "highRise": "High Rise Scaffolding",
+          "highCapacity": "High Capacity Structures",
+          "shoring": "Propping & Shoring Systems",
+          "industrial": "Industrial Scaffolding",
+          "circularDome": "Circular & Dome Scaffolding",
+          "events": "Scaffolding for Events",
+          "roof": "Roof Scaffolding",
+          "mobileSuspended": "Mobile Suspended Scaffolding (for Bridges)",
+          "accessStairs": "Scaffolding Access Stairs",
+          "loadingPlatforms": "Unloading & Loading Platforms",
+          "adjustableProps": "Adjustable Props (Rental & Sales)",
+          "laborforce": "Specialized Laborforce",
+          "design": "Scaffolding Design",
+          "digital": "Digital Services",
+          "other": "Other / General Inquiry"
+        }
+      },
+      "message": {
+        "label": "Message / Requirements",
+        "placeholder": "Describe your project requirements..."
+      },
+      "fileUpload": {
+        "label": "Upload Plans / Tender Documents",
+        "accept": "PDF, JPG, PNG, DOC, DOCX files",
+        "button": "Choose File",
+        "noFile": "No file chosen"
+      },
+      "submit": "Submit Request",
+      "submitting": "Submitting...",
+      "success": "Thank you! Your request has been submitted successfully. We'll contact you soon.",
+      "error": "An error occurred. Please try again or contact us directly.",
+      "validation": {
+        "required": "This field is required",
+        "email": "Please enter a valid email address",
+        "phone": "Please enter a valid phone number"
+      }
+    },
+    "contactCard": {
+      "title": "Direct Contact",
+      "whatsapp": {
+        "title": "Chat with an Expert",
+        "text": "Fast response for urgent site requirements.",
+        "button": "Open WhatsApp",
+        "aria": "Chat with ACHI Scaffolding expert on WhatsApp"
+      },
+      "phone": {
+        "office": {
+          "label": "Mobile",
+          "number": "+961 03 322 811",
+          "href": "+96103322811"
+        },
+        "emergency": {
+          "label": "Emergency Site Support",
+          "number": "+961 03 322 811",
+          "href": "+96103322811"
+        }
+      },
+      "email": {
+        "general": {
+          "label": "Inquiries",
+          "address": "achi.gr@hotmail.com",
+          "href": "achi.gr@hotmail.com"
+        },
+        "technical": {
+          "label": "Technical / Tendering",
+          "address": "achi.gr@hotmail.com",
+          "href": "achi.gr@hotmail.com"
+        }
+      },
+      "coverage": "Service coverage: Beirut, Mount Lebanon, North, South, Bekaa."
+    },
+    "map": {
+      "title": "Find Us",
+      "aria": "ACHI Scaffolding location map"
+    }
+  },
+  "inputs": {
+    "emailPlaceholder": "Email",
+    "namePlaceholder": "Name",
+    "phonePlaceholder": "Phone",
+    "messagePlaceholder": "Write something..."
+  },
+  "whychoseus": {
+    "sectionTitle": "Why choose us",
+    "firstCardtitle": "Experience and expertise",
+    "firstCardDescription": "With a team of highly skilled professionals and years of experience in the scaffolding industry, we bring a wealth of expertise to every project. We've successfully completed complex and challenging projects, earning a reputation for delivering quality workmanship.",
+    "secondCardtitle": "Exceptional Client Communication and Service",
+    "secondCardDescription": "At ACHI Scaffolding, exceptional client communication and service are at the core of our values. We believe in building strong partnerships with our clients, and our team is dedicated to understanding your needs.",
+    "thirdCardTitle": "Extensive and Diverse Inventory",
+    "thirdCardDescription": "We stand out because of our vast and diverse inventory of scaffolding equipment and materials. Whether your project is large or small, we have the resources to meet your specific requirements.",
+    "fourthCardTitle": "Immediate Assistance",
+    "fourthCardDescription": "Your project's success is our top priority. When you work with us, you can count on immediate assistance whenever you need it. Whether it's a question, an urgent request, or on-site support, our responsive team of scaffolding experts is always ready to assist you promptly.",
+    "fifthCardTitle": "In House Engineering Team",
+    "fifthCardDescription": "ACHI Scaffolding is proud to have an in house engineering team that provides valuable insights, designs custom solutions, and ensures the structural integrity and safety of your scaffolding. Our engineering expertise adds an extra layer of reliability and confidence to your project.",
+    "sixthCardTitle": "Elevating Safety To A Mastery",
+    "sixthCardDescription": "Our unwavering vision is to set a paradigm shift in the scaffolding industry, a world where safety isn't just a priority but an art form. We aspire to design scaffolding solutions that not only meet regulatory standards but transcend them.",
+    "seventhCardTitle": "Innovation At The Core",
+    "seventhCardDescription": "We're driven to revolutionize scaffolding by developing smarter, safer, and more adaptive solutions that elevate industry standards.",
+    "eighthCardTitle": "Crafting Timeless Quality",
+    "eighthCardDescription": "We deliver scaffolding solutions that stand the test of time through precision, experience, and uncompromising quality standards."
+  },
+  "homeSectors": {
+    "title": "Sectors",
+    "srDescription": "Explore the sectors ACHI Scaffolding serves with industrial and construction scaffolding systems, access solutions, and execution-ready support for complex projects.",
+    "listAriaLabel": "Sectors list",
+    "items": {
+      "renovation": {
+        "title": "Renovation",
+        "ariaLabel": "Explore {{title}} sector scaffolding solutions",
+        "titleAttr": "Explore {{title}} sector"
+      },
+      "construction": {
+        "title": "Construction",
+        "ariaLabel": "Explore {{title}} sector scaffolding solutions",
+        "titleAttr": "Explore {{title}} sector"
+      },
+      "domes": {
+        "title": "Domes & Religious structures",
+        "ariaLabel": "Explore {{title}} sector scaffolding solutions",
+        "titleAttr": "Explore {{title}} sector"
+      },
+      "events": {
+        "title": "Events and stage installation",
+        "ariaLabel": "Explore {{title}} sector scaffolding solutions",
+        "titleAttr": "Explore {{title}} sector"
+      },
+      "industrial": {
+        "title": "Industrial facilities",
+        "ariaLabel": "Explore {{title}} sector scaffolding solutions",
+        "titleAttr": "Explore {{title}} sector"
+      },
+      "oilGas": {
+        "title": "Oil & Gas sites",
+        "ariaLabel": "Explore {{title}} sector scaffolding solutions",
+        "titleAttr": "Explore {{title}} sector"
+      },
+      "marine": {
+        "title": "Naval & Marine Projects",
+        "ariaLabel": "Explore {{title}} sector scaffolding solutions",
+        "titleAttr": "Explore {{title}} sector"
+      }
+    }
+  },
+  "homeBlog": {
+    "title": "Blog",
+    "srOnly": "Technical insights and practical guidance on scaffolding systems, safety, and project execution from ACHI Scaffolding.",
+    "listAria": "Latest blog articles",
+    "readMore": "Read More",
+    "readAll": "Read All",
+    "readAllAria": "Read all ACHI Scaffolding blog articles",
+    "readAllTitle": "Read all blog articles",
+    "publishedAria": "Published on {{month}} {{day}}",
+    "readMoreAria": "Read blog article: {{title}}",
+    "readMoreTitle": "Read: {{title}}",
+    "posts": {
+      "blog-1": {
+        "title": "The Evolution of Scaffolding in Lebanon:\nA Historical Perspective",
+        "alt": "Historical overview of scaffolding in Lebanon"
+      },
+      "blog-2": {
+        "title": "Scaffolding Safety Standards: Ensuring Construction Site Security in Lebanon",
+        "alt": "Scaffolding safety standards and safe site practices in Lebanon"
+      },
+      "blog-3": {
+        "title": "Innovative Scaffolding Solutions for Lebanon's Unique Architectural Challenges",
+        "alt": "Innovative scaffolding solutions for complex architectural projects in Lebanon"
+      }
+    }
+  },
+
+  "projectsOverview": {
+    "title": "Projects Overview ",
+    "viewAll": "View More"
+  },
+  "homeServicesOverview": {
+  "title": "Services Overview",
+  "viewAll": "View More",
+  "items": {
+    "facade": {
+      "title": "Scaffolding for Facades",
+      "alt": "Scaffolding systems for building facades"
+    },
+    "highRise": {
+      "title": "High-Rise Scaffolding",
+      "alt": "Scaffolding solutions for high-rise buildings"
+    },
+    "suspended": {
+      "title": "Suspended Scaffolding",
+      "alt": "Suspended scaffolding systems for elevated access"
+    },
+    "accessStairs": {
+      "title": "Scaffolding Access Stairs",
+      "alt": "Safe access stairs for scaffolding systems"
+    },
+    "mobile": {
+      "title": "Mobile Scaffolding (On Wheels)",
+      "alt": "Mobile scaffolding systems on wheels"
+    },
+    "highCapacity": {
+      "title": "High-Capacity Structures",
+      "alt": "Heavy-duty high-capacity scaffolding structures"
+    },
+    "shoring": {
+      "title": "Propping & Shoring Systems",
+      "alt": "Propping and shoring systems for structural support"
+    },
+    "adjustableProps": {
+      "title": "Adjustable Props (Rental & Sales)",
+      "alt": "Adjustable props available for rental and sales"
+    },
+    "loadingPlatforms": {
+      "title": "Unloading & Loading Platforms",
+      "alt": "Platforms for material loading and unloading"
+    },
+    "industrial": {
+      "title": "Industrial Scaffolding",
+      "alt": "Scaffolding for factories, plants, and oil & gas facilities"
+    },
+    "circularDomes": {
+      "title": "Circular & Dome Scaffolding",
+      "alt": "Scaffolding for curved surfaces and heritage structures"
+    },
+    "events": {
+      "title": "Scaffolding for Events",
+      "alt": "Scaffolding for stages, rigs, and cultural setups"
+    },
+    "laborforce": {
+      "title": "Specialized Laborforce",
+      "alt": "Certified and specialized scaffolding laborforce"
+    },
+    "designConsulting": {
+      "title": "Design & Consulting",
+      "alt": "Scaffolding design, planning, and engineering consulting"
+    }
+  }
+  },
+  "about": {
+  "seo": {
+    "title": "A Scaffolding Contractor Focused on Execution, Safety, and Reliability | ACHI Scaffolding",
+    "description": "ACHI Scaffolding is an industrial and construction scaffolding contractor and equipment provider delivering access systems, shoring, and scaffolding solutions for restoration, infrastructure, and complex building projects."
+  },
+  "schema": {
+    "name": "ACHI Scaffolding",
+    "description": "ACHI Scaffolding is an industrial and construction scaffolding contractor and equipment provider delivering access systems, shoring, and scaffolding solutions for restoration, infrastructure, and complex building projects."
+  },
+  "hero": {
+    "imageAria": "Achi Scaffolding about hero image",
+    "panelTitleLine1": "30+ YEARS OF SCAFFOLDING",
+    "panelTitleLine2": "EXPERIENCE",
+    "panelBody": "Since its establishment in 1993 by engineer Barbar Achi, Achi Scaffolding has evolved into a reputable provider of expert scaffolding and formwork services in Lebanon. Our professional team takes immense pride in building a solid foundation of trust by delivering reliable and high-quality scaffold structures for diverse projects, including shopping malls, towers, residential buildings, and universities."
+  },
+  "main": {
+    "h1": "A SCAFFOLDING CONTRACTOR FOCUSED ON EXECUTION, SAFETY, AND RELIABILITY",
+    "srOnly": "ACHI Scaffolding is an industrial and construction scaffolding contractor and equipment provider delivering access systems, shoring, and scaffolding solutions for restoration, infrastructure, and complex building projects.",
+    "p1": "Achi Scaffolding provides professional scaffolding, formwork and shoring solutions for commercial, residential and industrial projects across Lebanon and the region. We combine field experience with engineered solutions to deliver safe, reliable and cost-effective systems.",
+    "p2": "ACHI Scaffolding operates at the intersection of construction execution and access engineering. We provide scaffolding systems that are designed to meet real-world site conditions, not idealized drawings.",
+    "bullets": {
+      "b1": "Restoration projects with sensitive façades",
+      "b2": "Industrial environments with strict safety constraints",
+      "b3": "Construction sites requiring scalable and adaptable access"
+    },
+    "p3": "We focus on doing fewer things better, ensuring every system we deliver is safe, compliant, and adapted to the project’s operational reality."
+  },
+  "cards": {
+    "mission": {
+      "title": "OUR MISSION",
+      "body": "We specialize in comprehensive scaffolding services, from rental and installation to design and export of new and used construction equipment across the Middle East and Africa. Our mission is to provide engineered, safe and timely solutions that help clients deliver their projects on schedule.",
+      "cta": "See projects"
+    },
+    "vision": {
+      "title": "OUR VISION",
+      "body": "To make scaffolding a symbol of innovation, sustainability and safety in the built environment. We aim to lead the industry by improving standards, investing in skilled crews and supplying modern systems that reduce risk and increase productivity.",
+      "cta": "Get in touch"
+    }
+  }
+   },
+   "statsHighlights": {
+  "items": {
+    "clients": {
+      "label": "Happy Clients",
+      "alt": "Happy clients"
+    },
+    "experience": {
+      "label": "Years of Experience",
+      "alt": "Years of experience"
+    },
+    "awards": {
+      "label": "Awards Winning",
+      "alt": "Awards winning"
+    },
+    "consultations": {
+      "label": "Consultations",
+      "alt": "Consultations"
+    }
+  }
+   }, 
+
+  "sectors": {
+  "seo": {
+    "title": "Industries Served | Scaffolding | ACHI Scaffolding",
+    "description": "ACHI Scaffolding is an industrial and construction scaffolding contractor and equipment provider delivering access systems, shoring, and scaffolding solutions for restoration, infrastructure, and complex architectural projects.",
+    "canonical": "https://achi-scaffolding.github.io/sectors"
+  },
+
+  "industries": {
+    "title": "Industries Served",
+    "description": "We provide engineered access and temporary works solutions designed for diverse environments, renovation, complex construction projects, industrial facilities, and infrastructure works, always prioritizing safety, performance, and site feasibility.",
+    "items": {
+      "construction": "Construction and complex architectural projects",
+      "restoration": "Renovation, rehabilitation, and heritage structures",
+      "industrial": "Industrial facilities and shutdown environments",
+      "residential": "Access requirements for residential and mixed-use projects"
+    }
+  },
+
+  "internalLinks": {
+    "ariaLabel": "Internal links for sectors",
+    "products": { "href": "/products", "label": "View Systems & Equipment" },
+    "projects": { "href": "/projects", "label": "Explore Our Project Experience" },
+    "services": { "href": "/services", "label": "Learn About Scaffolding Systems" }
+  },
+
+  "grid": {
+    "ariaLabel": "Scaffolding sectors list"
+  },
+
+  "titles": {
+    "renovation": "Renovation",
+    "construction": "Construction",
+    "domesReligious": "Domes and Religious Structures",
+    "eventsStages": "Event Structures and Stage Installations",
+    "industrial": "Industrial Facilities",
+    "oilGas": "Oil and Gas Sites",
+    "navalMarine": "Naval and Marine Projects",
+
+    "domes": "Domes and Religious Structures",
+    "events": "Event Structures and Stage Installations",
+    "marine": "Naval and Marine Projects"
+  },
+
+  "subtitles": {
+    "renovation": "Access solutions for renovation, façade works, and rehabilitation projects, ensuring safe execution with minimal disruption to existing structures.",
+    "construction": "Scaffolding and shoring systems designed to support complex construction sites, demanding geometries, and high scheduling constraints.",
+    "domesReligious": "Specialized scaffolding solutions for sensitive domes and religious structures, requiring precision, stability, and enhanced protection.",
+    "eventsStages": "Temporary structures and access solutions for events and stage installations, offering rapid assembly, stability, and regulatory compliance.",
+    "industrial": "Industrial access, maintenance platforms, and shutdown support solutions designed for safety-critical environments.",
+    "oilGas": "Scaffolding systems for oil and gas sites where safety procedures, permit control, and restricted work zones are essential.",
+    "navalMarine": "Access and containment solutions for naval and marine projects, ports, and coastal works, with configurations resistant to harsh and corrosive environments.",
+
+    "domes": "Specialized scaffolding solutions for sensitive domes and religious structures, requiring precision, stability, and enhanced protection.",
+    "events": "Temporary structures and access solutions for events and stage installations, offering rapid assembly, stability, and regulatory compliance.",
+    "marine": "Access and containment solutions for naval and marine projects, ports, and coastal works, with configurations resistant to harsh and corrosive environments."
+  },
+
+  "cta": {
+    "title": "Need Scaffolding Solutions for Your Sector?",
+    "description": "Share your project requirements and we will recommend the most suitable access system, shoring method, or scaffolding solution for your site conditions.",
+    "whatsapp": {
+      "href": "https://wa.me/96103322811",
+      "label": "Send Your Enquiry via WhatsApp",
+      "ariaLabel": "Request scaffolding information or technical support via WhatsApp"
+    }
+  }
+   },
+
+  "servicesPage": {
+    "seo": {
+      "title": "Scaffolding Systems & Services | ACHI Scaffolding",
+      "description": "Scaffolding, shoring, and access system services for construction, restoration, and industrial projects. Request technical consultation from ACHI Scaffolding.",
+      "canonical": "https://achi-scaffolding.github.io/services"
+    },
+    "schema": {
+      "name": "ACHI Scaffolding",
+      "url": "https://achi-scaffolding.github.io",
+      "logo": "https://achi-scaffolding.github.io/assets/ArchiScaffoldinglogo.png",
+      "description": "ACHI Scaffolding is an industrial and construction scaffolding contractor and equipment provider delivering access systems, shoring, and scaffolding solutions for restoration, infrastructure, and complex building projects."
+    },
+    "srOnly": {
+      "entityDefinition": "ACHI Scaffolding is an industrial and construction scaffolding contractor and equipment provider delivering access systems, shoring, and scaffolding solutions for restoration, infrastructure, and complex building projects."
+    },
+    "hero": {
+      "ariaLabel": "Scaffolding systems and services",
+      "title": "Services",
+      "description": "We offer a complete range of scaffolding, shoring and related services for safe and efficient projects.",
+      "whatsapp": {
+        "href": "https://wa.me/+96103322811",
+        "label": "Send enquiry over WhatsApp",
+        "ariaLabel": "Send enquiry over WhatsApp to ACHI Scaffolding"
+      }
+    },
+    "main": {
+      "ariaLabel": "All scaffolding services"
+    },
+    "allServices": {
+      "title": "All Services",
+      "description": "We deliver a wide range of advanced scaffolding and access solutions, supported by a trained workforce and engineered design. Our services adapt to projects of all sizes and complexities, across construction, infrastructure, restoration, and events.",
+      "listAriaLabel": "Scaffolding and shoring services list",
+      "readMore": {
+        "label": "Read More",
+        "href": "/services/serviceItem",
+        "ariaLabel": "Read more about {{title}}"
+      },
+      "items": {
+        "specializedLaborforce": {
+          "title": "Specialized Laborforce",
+          "desc": "Experienced teams trained in safe, efficient, and professional scaffolding installation, supervision, and dismantling.",
+          "imageAlt": "Specialized laborforce service"
+        },
+        "facades": {
+          "title": "Scaffolding for Façades",
+          "desc": "Secure, modular systems for building envelopes, ideal for renovations, maintenance, and façade works.",
+          "imageAlt": "Scaffolding for façades service"
+        },
+        "suspended": {
+          "title": "Suspended Scaffolding",
+          "desc": "Suspended platforms and hanging systems for areas where ground access is not possible or safe.",
+          "imageAlt": "Suspended scaffolding service"
+        },
+        "highCapacity": {
+          "title": "High Capacity Structures",
+          "desc": "Engineered support systems designed for high loads, slab casting, mezzanines, and construction staging.",
+          "imageAlt": "High-capacity structures service"
+        },
+        "highRise": {
+          "title": "High Rise Scaffolding",
+          "desc": "Vertical access solutions for towers, commercial blocks, and tall structures.",
+          "imageAlt": "High-rise scaffolding service"
+        },
+        "circularDome": {
+          "title": "Circular & Dome Scaffolding",
+          "desc": "Custom-built solutions for curved surfaces, domes, and heritage sites requiring precision and care.",
+          "imageAlt": "Circular and dome scaffolding service"
+        },
+        "events": {
+          "title": "Scaffolding for Events",
+          "desc": "Custom platforms, towers, and rigs for events, cultural setups, and temporary installations.",
+          "imageAlt": "Scaffolding for events service"
+        },
+        "industrial": {
+          "title": "Industrial Scaffolding",
+          "desc": "Tailored scaffolding systems for factories, plants, oil & gas, and industrial maintenance operations.",
+          "imageAlt": "Industrial scaffolding service"
+        },
+        "roof": {
+          "title": "Roof Scaffolding",
+          "desc": "Secure access systems for roof works, waterproofing, insulation, and maintenance.",
+          "imageAlt": "Roof scaffolding service"
+        },
+        "mobileSuspendedBridges": {
+          "title": "Mobile Suspended Scaffolding (for Bridges)",
+          "desc": "Engineered mobile systems for bridge inspections, painting, and maintenance.",
+          "imageAlt": "Mobile suspended scaffolding for bridges service"
+        },
+        "accessStairs": {
+          "title": "Scaffolding Access Stairs",
+          "desc": "Temporary stair towers for safe movement of workers and materials between site levels.",
+          "imageAlt": "Scaffolding access stairs service"
+        },
+        "adjustableProps": {
+          "title": "Adjustable Props (Rental & Sales)",
+          "desc": "Rental and sale of adjustable steel props in Lebanon, essential for slab support, formwork, and renovation works.",
+          "imageAlt": "Adjustable props rental and sales service"
+        },
+        "proppingShoring": {
+          "title": "Propping & Shoring Systems",
+          "desc": "Heavy-duty shoring and propping solutions in Lebanon for vertical support of slabs, beams, and complex structures.",
+          "imageAlt": "Propping and shoring systems service"
+        },
+        "unloadingLoadingPlatforms": {
+          "title": "Unloading & Loading Platforms",
+          "desc": "Safe zones for the organized transfer of materials and tools during construction.",
+          "imageAlt": "Unloading and loading platforms service"
+        },
+        "designConsulting": {
+          "title": "Design and Consulting",
+          "desc": "Technical planning, drawings, and custom scaffolding strategies by experienced engineers.",
+          "imageAlt": "Design and consulting service"
+        }
+      }
+    }
+  },
+  "projectsPage": {
+    "seo": {
+      "title": "Scaffolding Projects & Execution Experience | ACHI Scaffolding",
+      "description": "ACHI Scaffolding supports a range of project types, adapting access systems to site constraints, timelines, and safety requirements.",
+      "canonical": "https://achi-scaffolding.github.io/projects"
+    },
+    "hero": {
+      "title": "Projects",
+      "description": "ACHI Scaffolding supports a range of project types, adapting access systems to site constraints, timelines, and safety requirements.",
+      "whatsapp": {
+        "href": "https://wa.me/+96103322811",
+        "label": "Send enquiry over WhatsApp",
+        "ariaLabel": "Request scaffolding project information over WhatsApp"
+      }
+    },
+    "section": {
+      "allProjectsTitle": "All Projects"
+    },
+    "buttons": {
+      "viewMore": "View More"
+    },
+    "aria": {
+      "viewMore": "View project photos for {{title}}",
+      "tags": "{{title}} project tags"
+    },
+    "stats": {
+      "ariaLabel": "Projects count",
+      "iconAlt": "Projects icon",
+      "value": "1036",
+      "label": "Projects"
+    },
+    "newsletter": {
+      "ariaLabel": "Newsletter subscription",
+      "titleLine1": "Subscribe to our",
+      "titleLine2": "newsletter",
+      "emailLabel": "Email address",
+      "placeholder": "Email",
+      "submitLabel": "Subscribe",
+      "submitAriaLabel": "Subscribe to newsletter"
+    },
+    "modal": {
+      "ariaLabel": "{{title}} project gallery",
+      "closeAriaLabel": "Close project gallery",
+      "imageAlt": "{{title}} scaffolding work photo {{index}}"
+    },
+    "items": {
+      "aishtiMall": {
+        "title": "AISHTI Mall",
+        "desc": "Full scaffolding for interior and exterior works during construction at AISHTI Mall, one of the most iconic luxury retail developments in Lebanon.",
+        "imgAlt": "AISHTI Mall scaffolding project",
+        "tags": ["Large Scale", "Retail", "Antelias, Lebanon"]
+      },
+      "beirutBusinessCenter": {
+        "title": "Beirut Business Center",
+        "desc": "External and internal scaffolding for a commercial tower in Beirut, supporting structural works and façade completion.",
+        "imgAlt": "Beirut Business Center scaffolding project",
+        "tags": ["Commercial", "High Rise", "Beirut, Lebanon"]
+      },
+      "hotelLeGray": {
+        "title": "Hotel Le Gray",
+        "desc": "External scaffolding for façade maintenance and restoration at Hotel Le Gray, located in downtown Beirut.",
+        "imgAlt": "Hotel Le Gray scaffolding project",
+        "tags": ["Luxury", "Hotel", "Beirut, Lebanon"]
+      }
+    }
+  },
+
+   "galleryPage": {
+    "seo": {
+      "title": "Gallery | Scaffolding Project Photos | ACHI Scaffolding",
+      "description": "Browse photos from ACHI Scaffolding projects, including scaffolding systems and shoring solutions used across construction, restoration, and industrial sites.",
+      "canonical": "https://achi-scaffolding.github.io/gallery"
+    },
+    "header": {
+      "title": "Gallery",
+      "description": "ACHI Scaffolding is an industrial and construction scaffolding contractor and equipment provider delivering access systems, shoring, and scaffolding solutions for restoration, infrastructure, and complex building projects."
+    },
+    "sr": {
+      "links": {
+        "products": { "href": "/products", "label": "View Scaffolding Products" },
+        "projects": { "href": "/projects", "label": "Explore Project Experience" },
+        "contact": { "href": "/contact", "label": "Request Scaffolding Information or Technical Support" }
+      }
+    },
+    "grid": {
+      "ariaLabel": "Project photo gallery",
+      "imageAlt": "ACHI Scaffolding project gallery photo {{n}}",
+      "openImageAria": "Open image {{n}}"
+    },
+    "pagination": {
+      "ariaLabel": "Gallery pagination",
+      "prev": "Prev",
+      "next": "Next",
+      "prevAria": "Previous page",
+      "nextAria": "Next page",
+      "pageNumbersAria": "Page numbers",
+      "goToPageAria": "Go to page {{p}}"
+    },
+    "lightbox": {
+      "dialogAriaLabel": "Image preview dialog",
+      "backdropAriaLabel": "Close image preview",
+      "closeAriaLabel": "Close image"
+    }
+  },
+  
+ "projectDetails": {
+  "breadcrumb": "Projects",
+  "backToProjects": "Back to Projects",
+  "backToProjectsAria": "Back to projects listing",
+
+  "contact": {
+    "title": "LET’S TALK!",
+    "send": "SEND",
+    "sendAria": "Send contact form",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Write something..."
+    }
+  },
+
+    "items": {
+      "aishti-mall": {
+        "seoTitle": "Aïshti Mall, Metn, Lebanon | Project Details | ACHI Scaffolding",
+        "seoDescription": "Façade & Interior Scaffolding for Aïshti Mall, Metn, Lebanon",
+        "heroTitle": "Aïshti Mall, Metn, Lebanon",
+        "heroImageAlt": "Project Image",
+        "heading": "Façade & Interior Scaffolding for Aïshti Mall, Metn, Lebanon",
+        "paragraphs": [
+          "Project Overview",
+          "This project involved the delivery of façade and interior scaffolding solutions for Aïshti Mall, a large-scale mixed-use commercial development in Beirut.",
+          "The scope required engineered access systems integrated within an active construction environment, supporting complex architectural and finishing works across multiple levels.",
+          "Scope of Scaffolding Works",
+          "The scaffolding systems were designed and installed to support both external façade works and internal construction activities, including:",
+          "Façade scaffolding for exterior envelope and finishing works",
+          "Internal scaffolding to support circulation areas and architectural elements",
+          "Multi-level access aligned with phased construction sequencing",
+          "Installation and dismantling coordinated with site progress",
+          "Each configuration was adapted to evolving site conditions rather than relying on standard layouts.",
+          "Site Constraints & Execution Strategy",
+          "The project presented several execution challenges:",
+          "Large building footprint within a dense urban corridor",
+          "Simultaneous façade and interior works",
+          "Height variations and complex architectural geometry",
+          "Coordination with other trades operating in parallel",
+          "Scaffolding solutions were installed in controlled phases, ensuring continuous access while maintaining clear circulation paths and operational efficiency across the site.",
+          "Safety & Coordination",
+          "Safety and coordination were central to execution:",
+          "Scaffolding layouts planned in coordination with contractors and consultants",
+          "Controlled interfaces between scaffolding structures and ongoing works",
+          "Continuous alignment with site logistics and sequencing",
+          "This approach ensured stable access conditions for workers while preserving safety standards throughout the project lifecycle.",
+          "Project Outcome",
+          "The scaffolding systems provided reliable, safe, and adaptable access for façade and interior works, supporting uninterrupted construction progress on a high-profile commercial development.",
+          "Location & Service Coverage",
+          "This project was delivered in Metn, Lebanon.",
+          "Achi scaffolding services are delivered across Beirut, Mount Lebanon, North Lebanon, South Lebanon, and the Bekaa, supporting a wide range of commercial, residential, and industrial developments.",
+          "Discuss a Similar Project",
+          "For façade, interior, or renovation scaffolding on complex commercial developments, contact our team to review access requirements, site constraints, and execution strategy.",
+          "[Contact Us]"
+        ],
+        "accordion": [
+          { "title": "Collapsable", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+          { "title": "Collapsable", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+          { "title": "Collapsable", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+          { "title": "Collapsable", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." }
+        ],
+        "galleryAlt": "Project gallery image {{index}}"
+      },
+      
+     "beirut-business-center": {
+      "seoTitle": "Beirut Business Center BBC, Sin El Fil, Lebanon | Project Details | ACHI Scaffolding",
+      "seoDescription": "Façade, Structural & Temporary Works for Beirut Business Center (BBC), Beirut, Lebanon",
+      "heroTitle": "Beirut Business Center BBC, Sin El Fil, Lebanon",
+      "heroImageAlt": "Project Image",
+      "heading": "Façade, Structural & Temporary Works for Beirut Business Center (BBC), Beirut, Lebanon",
+
+      "paragraphs": [
+        "Project Overview",
+        "This project involved the execution of façade scaffolding, structural access systems, and temporary works for Beirut Business Center (BBC), a high-rise commercial development located in Beirut.",
+        "The scope required engineering-led access and logistics solutions integrated within an active urban construction environment, supporting works at height while maintaining efficient ground-level operations.",
+
+        "Scope of Works",
+        "The project combined multiple temporary works packages delivered in coordination with the main construction program:",
+        "Façade scaffolding for external envelope and elevation works",
+        "Structural scaffolding supporting construction activities at multiple levels",
+        "Multi-level access platforms aligned with floor-by-floor sequencing",
+        "Installation, adaptation, and dismantling coordinated with site progress",
+        "All systems were designed and configured based on actual site constraints rather than standardized layouts.",
+
+        "Site Constraints & Execution Strategy",
+        "Execution was shaped by the specific conditions of a large-scale urban high-rise project:",
+        "Limited ground-level working space within a dense city corridor",
+        "Vertical construction requiring continuous access and structural stability",
+        "Concurrent façade, structural, and finishing activities",
+        "Interfaces with cranes, formwork, and other temporary works",
+        "Scaffolding systems were installed in phased vertical sections, allowing construction activities to progress efficiently while maintaining controlled access and organized site circulation.",
+
+        "Temporary Access Road & Site Logistics",
+        "As part of the overall temporary works scope, a temporary access road was constructed to link one project block to the main road, enabling controlled vehicle entry into the site.",
+        "The access route was planned to:",
+        "Accommodate construction traffic and material deliveries",
+        "Improve internal site circulation and logistics efficiency",
+        "Integrate safely with scaffolding structures and ongoing works",
+        "This solution reduced congestion, improved material flow, and ensured uninterrupted access throughout the construction phases.",
+
+        "Safety & Coordination",
+        "Safety and coordination were embedded throughout planning and execution:",
+        "Scaffolding and temporary works coordinated with contractors and consultants",
+        "Defined load paths, access routes, and controlled interfaces",
+        "Continuous alignment with site logistics and construction sequencing",
+        "This approach ensured safe working conditions for site teams while maintaining steady project progress.",
+
+        "Project Outcome",
+        "The combined scaffolding and temporary works solutions provided stable access, efficient logistics, and controlled execution, supporting façade and structural works on a landmark commercial tower in Beirut.",
+
+        "Location & Service Coverage",
+        "This project was delivered in Beirut, Lebanon.",
+        "Scaffolding and temporary works solutions are provided across Beirut, Mount Lebanon, North Lebanon, South Lebanon, and the Bekaa, supporting commercial, residential, and industrial developments.",
+
+        "Discuss a Similar Project",
+        "For façade scaffolding, high-rise access, or temporary works on complex construction projects, contact our team to review site constraints, access requirements, and execution strategy.",
+        "[Contact Us]"
+      ],
+
+      "accordion": [],
+      "galleryAlt": "Project gallery image {{index}}"
+      },
+      "hotel-le-gray": {
+  "seoTitle": "Hotel Le Gray, Beirut, Lebanon | Project Details | ACHI Scaffolding",
+  "seoDescription": "Façade Scaffolding for Hotel Le Gray, Beirut",
+  "heroTitle": "Hotel Le Gray, Beirut, Lebanon",
+  "heroImageAlt": "Project Image",
+  "heading": "Façade Scaffolding for Hotel Le Gray, Beirut",
+
+  "paragraphs": [
+    "Project Context",
+    "Hotel Le Gray, located in the dense urban fabric of downtown Beirut, required external access scaffolding to support façade-related activities carried out by other project teams.",
+    "The building remained operational throughout the works, requiring a scaffolding solution adapted to a public-facing hospitality environment.",
+
+    "Scope of Scaffolding Services",
+    "Our involvement was limited to the design, installation, and dismantling of façade scaffolding, providing safe and reliable access for external works:",
+    "Façade access scaffolding along building elevations",
+    "Configurations adapted to architectural detailing and height variations",
+    "Phased installation aligned with site coordination requirements",
+    "Dismantling upon completion of access needs",
+    "No renovation or façade works were executed by our team.",
+
+    "Operational & Urban Constraints",
+    "The project presented conditions distinct from conventional construction sites:",
+    "Active hotel operations with continuous guest and staff circulation",
+    "High pedestrian exposure in adjacent streets",
+    "Limited ground space for staging and access",
+    "Visual and safety sensitivity due to the public environment",
+    "Scaffolding systems were installed in controlled phases, ensuring safe access for works while maintaining clear separation from hotel and public areas.",
+
+    "Safety & Interface Control",
+    "Given the operational setting, safety and interface management were critical:",
+    "Physical separation between scaffolding zones and public access points",
+    "Defined circulation routes and protective measures",
+    "Continuous coordination with site representatives and hotel management",
+    "These measures ensured safe conditions for workers, guests, and surrounding pedestrian areas.",
+
+    "Project Outcome",
+    "The façade scaffolding system provided stable, discreet, and secure access, enabling external works to proceed without disrupting hotel operations or public circulation.",
+
+    "Project Location",
+    "This scaffolding project was delivered in downtown Beirut, within a high-density urban and commercial setting.",
+
+    "Discuss a Similar Project",
+    "For façade scaffolding on occupied buildings, hotels, or sensitive urban sites, contact our team to review access requirements and execution constraints.",
+    "[Contact Us]"
+  ],
+
+  "accordion": [],
+  "galleryAlt": "Project gallery image {{index}}"
+  }
+
+
+  }
+    
+  },
+  
+  "footer": {
+    "logoAlt": "ACHI Scaffolding logo",
+    "tagline": "Engineering-led scaffolding solutions for construction, industrial, and event projects.",
+    "links": {
+      "ariaLabel": "Footer navigation",
+      "home": "Home",
+      "about": "About us",
+      "services": "Services",
+      "clients": "Clients",
+      "sectors": "Sectors",
+      "projects": "Projects",
+      "blog": "Blog",
+      "gallery": "Gallery"
+    },
+    "contact": {
+      "title": "Contact",
+      "phoneLabel": "Phone",
+      "phoneText": "+961 03 322 811",
+      "phoneHref": "+96103322811",
+      "emailLabel": "Email",
+      "emailText": "achi.gr@hotmail.com",
+      "emailHref": "achi.gr@hotmail.com",
+      "location": "Lebanon"
+    },
+    "copyright": "All rights reserved.",
+    "social": {
+      "title": "Follow us",
+      "facebook": {
+        "url": "https://www.facebook.com/ACHISCAFF",
+        "icon": "/assets/iconoir_facebook.svg",
+        "alt": "Facebook",
+        "aria": "ACHI Scaffolding Facebook page"
+      },
+      "instagram": {
+        "url": "https://www.instagram.com/achiscaffoldinglb",
+        "icon": "/assets/mdi_instagram.svg",
+        "alt": "Instagram",
+        "aria": "ACHI Scaffolding Instagram page"
+      },
+      "x": {
+        "url": "https://x.com/AchiScaffolding",
+        "icon": "/assets/ri_twitter-x-fill.svg",
+        "alt": "X",
+        "aria": "ACHI Scaffolding X account"
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/achi-scaffolding/",
+        "icon": "/assets/basil_linkedin-outline.svg",
+        "alt": "LinkedIn",
+        "aria": "ACHI Scaffolding LinkedIn page"
+      },
+      "tiktok": {
+        "url": "https://www.tiktok.com/@achiscaffolding",
+        "icon": "/assets/ph_tiktok-logo.svg",
+        "alt": "TikTok",
+        "aria": "ACHI Scaffolding TikTok account"
+      }
+    }
+  },
+  
+
+  "common": {
+    "skipToContent": "Skip to content"
+  },
+
+  "singleService": {
+    "facades": {
+      "seo": {
+        "title": "Façade Scaffolding Services | ACHI Scaffolding",
+        "description": "Professional façade scaffolding systems providing stable, continuous access along building exteriors. Engineered solutions for renovation, maintenance, and architectural finishes across Lebanon.",
+        "canonical": "https://achi-scaffolding.github.io/services/serviceItem"
+      },
+
+      "schema": {
+        "name": "Façade Scaffolding",
+        "serviceType": "Façade scaffolding"
+      },
+
+      "breadcrumbs": {
+        "home": "Home",
+        "services": "Services",
+        "facadeScaffolding": "Façade Scaffolding"
+      },
+
+      "hero": {
+        "h1": "Façade Scaffolding",
+        "intro": "Façade scaffolding systems are designed to provide stable, continuous access along building exteriors while supporting works at height.",
+        "primaryButton": "Request project support",
+        "primaryButtonAria": "Request project support for façade scaffolding",
+        "secondaryButton": "View our projects",
+        "secondaryButtonAria": "View our scaffolding projects",
+        "stats": {
+          "0": { "label": "Engineered access" },
+          "1": { "label": "Phased execution" },
+          "2": { "label": "Public-facing safety" }
+        }
+      },
+
+      "overview": {
+        "paragraph": "Façade scaffolding systems are designed to provide stable, continuous access along building exteriors while supporting works at height.",
+        "chips": {
+          "0": "External envelope works",
+          "1": "Architectural finishes",
+          "2": "Maintenance & inspection"
+        }
+      },
+
+      "images": {
+        "heroAlt": "Façade scaffolding access system on building exterior"
+      },
+
+      "keyTakeaways": {
+        "title": "Key Takeaways",
+        "items": {
+          "0": "Engineered access solutions tailored to building geometry and site constraints",
+          "1": "Safe, controlled installation and dismantling for urban and occupied buildings",
+          "2": "Coordination with contractors and site management for seamless project execution"
+        }
+      },
+
+      "toc": {
+        "title": "On this page"
+      },
+
+      "intro": {
+        "paragraph": "Façade scaffolding systems are designed to provide stable, continuous access along building exteriors while supporting works at height.",
+        "bulletLeadIn": "These systems are commonly required for:",
+        "bullets": {
+          "0": "External envelope works",
+          "1": "Architectural finishes",
+          "2": "Maintenance and inspection activities"
+        },
+        "closing": "On complex sites, façade access must be engineered to respond to real constraints rather than relying on standard configurations."
+      },
+
+      "sections": {
+        "typicalApplications": {
+          "title": "Typical Applications",
+          "intro": "Façade scaffolding is deployed on a wide range of projects, including:",
+          "bullets": {
+            "0": "Commercial and mixed-use developments",
+            "1": "Residential buildings and towers",
+            "2": "Renovation and refurbishment projects",
+            "3": "Occupied buildings requiring phased access",
+            "4": "Urban sites with limited ground space"
+          },
+          "closing": "Each application requires a tailored access strategy based on building geometry and site conditions."
+        },
+
+        "urbanConstraints": {
+          "title": "Urban and Site Constraints",
+          "intro": "Façade works are often executed in active and constrained environments, where access systems interact with surrounding activity.",
+          "leadIn": "Common constraints include:",
+          "bullets": {
+            "0": "Narrow streets and limited setbacks",
+            "1": "Pedestrian circulation and public exposure",
+            "2": "Height variations and architectural complexity",
+            "3": "Coordination with parallel trades and site logistics"
+          },
+          "closing": "Façade scaffolding must therefore be planned to maintain safe access while preserving circulation and operational efficiency."
+        },
+
+        "engineeringApproach": {
+          "title": "Engineering-Led Execution Approach",
+          "intro": "Our façade scaffolding solutions follow an engineering-led planning process, aligned with site realities and project sequencing.",
+          "leadIn": "This approach focuses on:",
+          "bullets": {
+            "0": "Compatibility with structural and architectural conditions",
+            "1": "Phased installation aligned with construction progress",
+            "2": "Adaptability to evolving site requirements",
+            "3": "Controlled installation and dismantling"
+          },
+          "closing": "By treating façade scaffolding as a technical scope, access systems remain predictable and reliable throughout the project lifecycle."
+        },
+
+        "safetyCoordination": {
+          "title": "Safety and Coordination",
+          "intro": "Safety and coordination are integral to façade scaffolding execution, particularly on public-facing sites.",
+          "leadIn": "Key considerations include:",
+          "bullets": {
+            "0": "Controlled interfaces with pedestrians and adjacent properties",
+            "1": "Defined access routes and exclusion zones",
+            "2": "Coordination with contractors, consultants, and site management",
+            "3": "Ongoing alignment with construction sequencing"
+          },
+          "closing": "These measures ensure safe working conditions while minimizing disruption to surrounding environments."
+        },
+
+        "whyMatters": {
+          "title": "Why Façade Scaffolding Matters",
+          "intro": "Façade scaffolding is not only an access solution it directly impacts:",
+          "bullets": {
+            "0": "Work efficiency at height",
+            "1": "Site safety and public protection",
+            "2": "Project sequencing and continuity"
+          },
+          "closing": "Well-planned façade access reduces risk, avoids rework, and supports consistent progress on complex construction sites."
+        },
+
+        "locationCoverage": {
+          "title": "Location and Service Coverage",
+          "text": "Façade scaffolding services are delivered across Beirut, Mount Lebanon, North Lebanon, South Lebanon, and the Bekaa, supporting commercial, residential, and industrial projects."
+        }
+      },
+
+      "safetyCallout": {
+        "title": "Compliance & Coordination",
+        "items": {
+          "0": "Controlled interfaces with pedestrians and adjacent properties",
+          "1": "Defined access routes and exclusion zones",
+          "2": "Coordination with contractors, consultants, and site management"
+        }
+      },
+
+      "coverage": {
+        "regions": {
+          "beirut": "Beirut",
+          "mountLebanon": "Mount Lebanon",
+          "northLebanon": "North Lebanon",
+          "southLebanon": "South Lebanon",
+          "bekaa": "Bekaa"
+        },
+        "subtext": "Serving commercial, residential, and industrial projects."
+      },
+
+      "sidebar": {
+        "ctaTitle": "Need Façade Scaffolding?",
+        "ctaText": "Get expert consultation for your project requirements and site constraints.",
+        "ctaButton": "Request project support",
+        "ctaAria": "Request project support for façade scaffolding",
+        "resourcesTitle": "Related Resources",
+        "servicesLabel": "All Services",
+        "productsLabel": "Products",
+        "projectsLabel": "Projects"
+      },
+
+      "cta": {
+        "title": "Discuss Your Project Requirements",
+        "text1": "For façade scaffolding on urban, high-rise, or occupied buildings, early coordination is essential.",
+        "text2": "Contact ACHI Scaffolding to review access requirements, site constraints, and execution strategy.",
+        "buttonText": "Request project support",
+        "buttonAria": "Request project support for façade scaffolding"
+      },
+
+      "contact": {
+        "ariaLabel": "Request technical consultation"
+      }
+    }
+  },
+  
+
+  "blogItem": {
+    "breadcrumbs": {
+      "aria": "Breadcrumb",
+      "home": "Home",
+      "blog": "Blog"
+    },
+    "header": {
+      "kicker": "BLOG"
+    },
+    "takeaways": {
+      "title": "Key Takeaways"
+    },
+    "toc": {
+      "title": "Jump to"
+    },
+    "finalWord": {
+      "title": "Final Word"
+    },
+    "author": {
+      "title": "About the Author",
+      "name": "Engineer Nizar Achi",
+      "role": "Scaffolding Engineer",
+      "bio": "Engineer Nizar Achi supports scaffolding planning and temporary works execution in Lebanon, focusing on structured access strategies and risk reduction on complex sites.",
+      "photoAlt": "Portrait of Engineer Nizar Achi",
+      "linkedin": "https://www.linkedin.com/",
+      "linkedinLabel": "View LinkedIn Profile",
+      "linkedinAria": "Open Engineer Nizar Achi LinkedIn profile"
+    },
+    "recommended": {
+      "title": "Recommended for You",
+      "readLabel": "Read Article",
+      "readAria": "Read recommended article"
+    },
+    "backToBlog": {
+      "label": "Other Articles",
+      "aria": "Back to blog articles list"
+    },
+    "sidebar": {
+      "ctaTitle": "Need a technical consultation?",
+      "ctaText": "Request project support to review site conditions, access requirements, and execution constraints.",
+      "ctaButton": "Contact an Engineer",
+      "ctaAria": "Contact an engineer for technical consultation",
+      "resourcesTitle": "Related Resources",
+      "servicesLabel": "Scaffolding Services",
+      "servicesAria": "View scaffolding services",
+      "productsLabel": "Scaffolding Systems & Equipment",
+      "productsAria": "View scaffolding products",
+      "projectsLabel": "Project Experience",
+      "projectsAria": "Explore projects",
+      "sourcesTitle": "High-Authority References",
+      "sourceAria": "Open external reference in a new tab",
+      "shareTitle": "Share",
+      "shareLinkedInLabel": "Share on LinkedIn",
+      "shareLinkedInAria": "Share this article on LinkedIn",
+      "shareLinkedInHref": "https://www.linkedin.com/sharing/share-offsite/?url=",
+      "shareWhatsAppLabel": "Share on WhatsApp",
+      "shareWhatsAppAria": "Share this article on WhatsApp",
+      "shareWhatsAppHref": "https://wa.me/?text="
+    },
+    "newsletter": {
+      "aria": "Newsletter subscription",
+      "titleLine1": "Subscribe to our",
+      "titleLine2": "Newsletter",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "Email",
+      "emailAria": "Email address",
+      "submitLabel": "Subscribe",
+      "submitAria": "Subscribe to newsletter"
+    },
+    "hiddenLinks": {
+      "products": "View Scaffolding Products",
+      "projects": "Explore Project Experience",
+      "contact": "Request Scaffolding Information or Technical Support",
+      "blog": "Scaffolding Systems, Safety, and Technical Insights"
+    },
+    "externalSources": {
+      "internationalSafetyBoards": "International safety boards and scaffolding standards resources",
+      "internationalSafetyBoardsHref": "https://www.osha.gov/",
+      "publicWorksLebanon": "Lebanese Ministry of Public Works and Transport",
+      "publicWorksLebanonHref": "https://www.mopwt.gov.lb/"
+    },
+    "fallback": {
+      "seoTitle": "Blog Post | ACHI Scaffolding",
+      "seoDescription": "Read the latest insights from ACHI Scaffolding.",
+      "h1": "Blog Article",
+      "imageAlt": "ACHI Scaffolding blog article image",
+      "category": "Scaffolding Systems & Safety",
+      "readingTime": "4 Min Read",
+      "takeaways": [
+        "Engineering-led scaffolding improves safety and planning.",
+        "Structured execution reduces risk on complex sites.",
+        "Professional discipline strengthens outcomes project by project."
+      ]
+    },
+    "posts": {
+      "1": {
+        "seoTitle": "Scaffolding in Lebanon: Industry Challenges and the Lack of Formal Regulation | ACHI Blog",
+        "seoDescription": "Scaffolding in Lebanon plays a critical role in construction and temporary works, yet the industry operates with limited formal regulation and inconsistent standards. Learn how engineering-led scaffolding helps manage risk and improve outcomes.",
+        "canonical": "https://achi-scaffolding.github.io/blog-post-1",
+        "h1": "Scaffolding in Lebanon: Industry Challenges and the Lack of Formal Regulation",
+        "imageAlt": "Scaffolding in Lebanon blog article cover image",
+        "category": "Scaffolding Systems & Safety",
+        "readingTime": "5 Min Read",
+        "takeaways": [
+          "Lebanon lacks unified scaffolding regulation, resulting in inconsistent standards across projects.",
+          "Engineering-led scaffolding improves safety, planning, and performance in under-regulated environments.",
+          "Raising internal procedures and benchmarks is often the most effective path to reducing operational risk."
+        ],
+        "sections": {
+          "regulatoryContext": {
+            "title": "The Regulatory Context for Scaffolding in Lebanon",
+            "p1": "Unlike markets where scaffolding systems and temporary works are governed by detailed national codes, Lebanon relies largely on general construction practices and project-specific requirements.",
+            "p2": "As a result:",
+            "bullets": [
+              "There is no unified scaffolding regulation at a national level.",
+              "Standards for scaffolding installation and use vary between projects.",
+              "Oversight depends heavily on consultants, developers, or contractor policies."
+            ],
+            "p3": "This fragmented framework leads to inconsistent approaches to scaffolding design, installation, and safety management."
+          },
+          "risks": {
+            "title": "Risks Associated with Limited Scaffolding Standards",
+            "p1": "When scaffolding is treated primarily as a rental activity rather than a technical system, several risks may arise:",
+            "bullets": [
+              "Variable safety levels across construction sites.",
+              "Limited engineering review of scaffolding and temporary works.",
+              "Reactive solutions driven by schedule pressure.",
+              "Increased exposure on high-rise and urban scaffolding projects."
+            ],
+            "p2": "These risks are amplified on occupied buildings, commercial developments, and dense urban sites, where scaffolding interfaces directly with the public environment."
+          },
+          "engineeringLed": {
+            "title": "The Importance of Engineering-Led Scaffolding",
+            "p1": "In the absence of strict regulation, engineering-led scaffolding solutions play a key role in managing risk.",
+            "bullets": [
+              "Planned access strategies rather than improvised scaffolding.",
+              "Compatibility between scaffolding systems and structural conditions.",
+              "Coordination with other temporary works such as shoring and formwork.",
+              "Alignment with real site constraints and execution sequencing."
+            ],
+            "p2": "This approach helps standardize performance even where formal rules are limited."
+          },
+          "beyondCompliance": {
+            "title": "Responsibility Beyond Minimum Compliance",
+            "p1": "On many projects in Lebanon, compliance is defined by what is accepted on site rather than by formal scaffolding standards.",
+            "p2": "Professional scaffolding contractors increasingly recognize that:",
+            "bullets": [
+              "Safety should not rely solely on regulation.",
+              "Temporary works deserve structured planning.",
+              "Internal procedures and controls reduce operational and reputational risk."
+            ],
+            "p3": "Raising internal benchmarks is often the most effective way to manage scaffolding safety in under-regulated environments."
+          },
+          "evolvingExpectations": {
+            "title": "Evolving Expectations in the Lebanese Construction Sector",
+            "p1": "Developers, consultants, and international stakeholders operating in Lebanon are placing greater emphasis on how scaffolding services and temporary works are delivered.",
+            "p2": "There is growing demand for:",
+            "bullets": [
+              "Documented scaffolding planning.",
+              "Defined roles and responsibilities.",
+              "Predictable installation and dismantling processes.",
+              "Reduced exposure to safety and operational risk."
+            ],
+            "p3": "This shift reinforces the value of working with experienced scaffolding contractors in Lebanon."
+          },
+          "movingForward": {
+            "title": "Moving the Scaffolding Industry Forward",
+            "p1": "Improving scaffolding practices does not depend only on new regulations. It also depends on how contractors choose to operate today.",
+            "p2": "Progress comes from:",
+            "bullets": [
+              "Treating scaffolding as a technical scope, not a commodity.",
+              "Applying engineering discipline to access and temporary works.",
+              "Prioritizing planning, coordination, and safety culture."
+            ],
+            "p3": "These practices help elevate industry standards project by project."
+          },
+          "finalPerspective": {
+            "title": "Final Perspective",
+            "p1": "The lack of formal scaffolding regulation in Lebanon presents both challenges and responsibility. In such environments, engineering judgment, structured execution, and professional discipline become the primary safeguards of safety and project performance."
+          },
+          "cta": {
+            "title": "Discuss Your Scaffolding Requirements",
+            "p1": "For scaffolding and temporary works in Lebanon, working with an engineering-led contractor helps reduce uncertainty and improve outcomes on complex or high-risk projects.",
+            "p2": "Request project support to review site conditions, access requirements, and execution constraints."
+          }
+        },
+        "conclusion": "In under-regulated environments, consistent scaffolding performance depends on engineering judgment, structured planning, and disciplined execution, project by project."
+      },
+      "2": {
+        "seoTitle": "What Are Temporary Works in Construction? | ACHI Blog",
+        "seoDescription": "Temporary works enable safe, efficient construction sequencing. Learn what temporary works are, common types, and why engineering-led planning is critical on complex projects.",
+        "canonical": "https://achi-scaffolding.github.io/blog-post-2",
+        "h1": "What Are Temporary Works in Construction?",
+        "imageAlt": "Temporary works in construction blog article cover image",
+        "category": "Temporary Works & Site Engineering",
+        "readingTime": "5 Min Read",
+        "takeaways": [
+          "Temporary works support safe construction sequencing until permanent works become self-supporting.",
+          "Scaffolding, shoring, and formwork are key temporary systems that directly affect safety and stability.",
+          "Engineering-led planning reduces risk and improves predictability on complex and urban sites."
+        ],
+        "sections": {
+          "intro": {
+            "title": "Introduction",
+            "p1": "Temporary works are a critical but often misunderstood part of construction projects. They enable permanent works to be built safely, efficiently, and in sequence, yet they are not part of the final structure.",
+            "p2": "Understanding what temporary works are, and why they matter, is essential for developers, engineers, and contractors involved in complex construction environments."
+          },
+          "definition": {
+            "title": "Definition of Temporary Works",
+            "p1": "In construction, temporary works refer to all structures, systems, and measures required to support construction activities until permanent works become self-supporting.",
+            "p2": "They are designed for limited duration use, but they directly affect:",
+            "bullets": [
+              "Site safety",
+              "Structural stability",
+              "Construction sequencing",
+              "Project efficiency"
+            ],
+            "p3": "Despite their temporary nature, their impact on project performance is permanent."
+          },
+          "commonTypes": {
+            "title": "Common Types of Temporary Works",
+            "p1": "Temporary works cover a wide range of applications across construction and industrial projects, including:",
+            "bullets": [
+              "Scaffolding systems for access and working platforms",
+              "Shoring and propping systems to support structural elements",
+              "Formwork used to shape and hold concrete",
+              "Temporary access structures such as ramps or platforms",
+              "Protective structures for public and site safety"
+            ],
+            "p2": "Each type serves a specific function and must align with site conditions and construction methodology."
+          },
+          "whyCritical": {
+            "title": "Why Temporary Works Are Critical",
+            "p1": "Temporary works are not auxiliary elements, they are enabling systems.",
+            "p2": "They play a central role in:",
+            "bullets": [
+              "Allowing construction activities to proceed safely",
+              "Supporting loads during intermediate construction stages",
+              "Managing access on high-rise, urban, or constrained sites",
+              "Protecting workers, the public, and adjacent structures"
+            ],
+            "p3": "Failures or misalignment in temporary works can disrupt schedules, increase risk, and affect overall project outcomes."
+          },
+          "vsPermanent": {
+            "title": "Temporary Works vs Permanent Works",
+            "p1": "A key distinction in construction planning is between temporary and permanent works.",
+            "p2": "Permanent works remain as part of the completed structure. Temporary works are removed once their function is complete.",
+            "p3": "However, temporary works often carry significant loads and interact directly with permanent structures during construction, making their planning just as critical."
+          },
+          "engineeringRole": {
+            "title": "The Role of Engineering in Temporary Works",
+            "p1": "Effective temporary works rely on engineering-led planning, not improvised solutions.",
+            "p2": "An engineering approach ensures:",
+            "bullets": [
+              "Compatibility with structural and architectural conditions",
+              "Alignment with construction sequencing",
+              "Controlled interfaces with other site activities",
+              "Predictable performance throughout their use period"
+            ],
+            "p3": "In complex or under-regulated environments, engineering discipline becomes the primary safeguard."
+          },
+          "complexUrban": {
+            "title": "Temporary Works in Complex and Urban Projects",
+            "p1": "Temporary works are especially critical on projects involving:",
+            "bullets": [
+              "High-rise construction",
+              "Dense urban environments",
+              "Occupied buildings",
+              "Industrial or infrastructure works"
+            ],
+            "p2": "In these contexts, temporary systems must integrate access, safety, and logistics within tight spatial and operational constraints."
+          },
+          "riskManagement": {
+            "title": "Responsibility and Risk Management",
+            "p1": "Temporary works carry responsibility beyond installation.",
+            "p2": "Proper management includes:",
+            "bullets": [
+              "Clear definition of scope and responsibilities",
+              "Coordination with contractors and consultants",
+              "Ongoing monitoring throughout their use",
+              "Timely modification or removal as project conditions evolve"
+            ],
+            "p3": "Treating temporary works as a technical scope reduces uncertainty and improves risk control."
+          },
+          "finalPerspective": {
+            "title": "Final Perspective",
+            "p1": "Temporary works may not appear in the final building, but they play a decisive role in how that building is constructed.",
+            "p2": "When planned and managed with engineering discipline, temporary works support safe execution, efficient sequencing, and predictable project delivery."
+          },
+          "cta": {
+            "title": "Discuss Your Temporary Works Requirements",
+            "p1": "For temporary works and scaffolding on construction projects, early planning and engineering-led coordination are essential, particularly on complex or high-risk sites.",
+            "p2": "Request project support to review access requirements, site constraints, and execution strategy."
+          }
+        },
+        "conclusion": "When planned and managed with engineering discipline, temporary works enable safe execution, efficient sequencing, and predictable delivery, especially on complex projects."
+      }
+    }
+  },
+  "blogPage": {
+    "seo": {
+      "title": "Scaffolding Systems, Safety, and Technical Insights | ACHI Scaffolding",
+      "description": "Educational and technical resources covering scaffolding systems, applications, and decision-making for construction professionals.",
+      "canonical": "https://achi-scaffolding.github.io/blog"
+    },
+    "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "header": {
+      "title": "Blog"
+    },
+    "articlesAriaLabel": "Blog articles",
+    "readMore": {
+      "label": "READ MORE",
+      "ariaLabel": "Read more: {{title}}"
+    },
+    "sr": {
+      "entityAriaLabel": "ACHI Scaffolding entity definition",
+      "entityDefinition": "ACHI Scaffolding is an industrial and construction scaffolding contractor and equipment provider delivering access systems, shoring, and scaffolding solutions for restoration, infrastructure, and complex building projects.",
+      "internalLinksAriaLabel": "Internal links",
+      "links": {
+        "products": { "href": "/products", "label": "View Scaffolding Products" },
+        "projects": { "href": "/projects", "label": "Explore Project Experience" },
+        "contact": { "href": "/contact", "label": "Request Scaffolding Information or Technical Support" }
+      }
+    },
+    "cms": {
+      "fallbackTitle": "Untitled",
+      "fetchFailedLog": "Strapi fetch failed:"
+    },
+    "staticPosts": {
+      "blog1": {
+        "title": "Scaffolding in Lebanon: Industry Challenges and the Lack of Formal Regulation",
+        "excerpt": "Scaffolding in Lebanon plays a critical role in construction and temporary works, yet the industry operates with limited formal regulation and inconsistent standards. Learn how engineering-led scaffolding helps manage risk and improve outcomes."
+      },
+      "blog2": {
+        "title": "What Are Temporary Works in Construction?",
+        "excerpt": "Temporary works enable permanent structures to be built safely and in sequence. Learn the definition, common types, and why engineering-led planning is critical on complex projects."
+      },
+      "blog3": {
+        "title": "Innovative Scaffolding Solutions for Lebanon's Unique Architectural Challenges",
+        "excerpt": "Lebanon’s diverse architectural styles and terrains require creative scaffolding systems. This article highlights innovative solutions and case studies showing how modern scaffolding adapts to Lebanon’s complex construction environments."
+      }
+    }
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

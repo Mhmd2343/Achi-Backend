@@ -1,0 +1,1460 @@
+{
+  "header": {
+    "Lebanon": "Liban"
+  },
+  "langDropwn": {
+    "arabic": "Arabe",
+    "english": "Anglais",
+    "french": "Français"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "products": "Systèmes & Équipements",
+    "sectors": "Secteurs",
+    "clients": "Clients",
+    "projects": "Projets",
+    "blog": "Blog",
+    "gallery": "Galerie",
+    "careers": "Carrières",
+    "contact": "Contact",
+    "marketplace": "Place de marché",
+    "openTime": "We are open from Monday to Saturday from 7:30 to 6pm",
+    "copyright": "VAT number: 17231971007 © 2024 Achi Ponteggi. All rights reserved"
+  },
+  "banner1": {
+    "title": "Entreprise spécialisée en échafaudage et travaux temporaires",
+    "subtitle": "Solutions d’échafaudage pour les projets de construction, industriels et événementiels, exécutées avec précision et fiabilité au Liban. ",
+    "button": "Demander un support de projet "
+  },
+  "banner2": {
+    "title": "NOUS SOMMES PRÊTS POUR VOTRE\n PROJET DANS TOUT LE LIBAN",
+    "subtitle": "Service complet d’installation et location d'échafaudage depuis 1993.",
+    "button": "ENVOYEZ-NOUS VOTRE DEMANDE VIA WHATSAPP."
+  },
+  "banner3": {
+    "title": "NOUS VENDONS DES ÉQUIPEMENTS\n NEUFS ET D'OCCASION",
+    "subtitle": "Fourniture Equipements de construction neufs et d'occasion.",
+    "button": "ENVOYEZ-NOUS VOTRE DEMANDE VIA WHATSAPP."
+  },
+  "service": {
+    "title": "Nos services",
+    "firstService": "Pose et location d'échafaudages pour Façades",
+    "secondService": "Installation et location d'échafaudages suspendus",
+    "thirdService": "Services de systèmes d'étaiement",
+    "fourthService": "Services d'échafaudages intérieurs",
+    "fifthService": "Services de structures à haute capacité",
+    "sixthService": "Etaies de construction",
+    "seventhService": "Etudes d'échafaudages",
+    "eighthService": "Services numériques",
+    "ninthService": "Main-d'œuvre spécialisée",
+    "tenthService": "Échafaudages de grande hauteur",
+    "eleventhService": "Échafaudages circulaires et en dôme",
+    "twelfthService": "Échafaudages pour événements",
+    "thirteenthService": "Échafaudages industriels",
+    "fourteenthService": "Échafaudages de toiture",
+    "fifteenthService": "Échafaudages suspendus mobiles (pour ponts)",
+    "sixteenthService": "Escaliers d'accès aux échafaudages",
+    "seventeenthService": "Plates-formes de chargement et déchargement",
+    "contactBtn": "Contactez-nous",
+    "title2": "Initiative des professionnels",
+    "title2br": "Initiative des\n professionnels"
+  },
+  "aboutUs": {
+    "titleMultiLine": "30+ ANS\nD'EXPÉRIENCE EN\nÉCHAFAUDAGE",
+    "title": "30+ ANS D'EXPÉRIENCE EN ÉCHAFAUDAGE",
+    "description": "Depuis 1993, ACHI Scaffolding fournit des solutions d’échafaudage et de travaux temporaires à approche d’ingénierie à travers le Liban. Notre expérience couvre des projets de construction, industriels et urbains complexes, où la fiabilité, la sécurité et la rigueur d’exécution sont essentielles. ",
+    "additionalText": "Contactez-nous ou envoyez-nous votre demande via WhatsApp pour une réponse rapide.",
+    "button": "En savoir plus sur nous"
+  },
+  "clients": {
+    "title": "Nos clients",
+    "description": "ACHI Scaffolding accompagne les entrepreneurs, les promoteurs et les ingénieurs en proposant des systèmes d’accès prêts à l’exécution et des solutions d’échafaudage pour des projets de construction et industriels."
+  },
+  "vision": {
+    "title": "NOTRE VISION",
+    "description": "Chez Achi Scaffolding, nous traçons une voie visionnaire vers un avenir où les échafaudages ne sont pas simplement une nécessité structurelle ; c'est une incarnation de l'innovation, d'une sécurité inégalée et d'un progrès durable, définissant l'infrastructure de demain.",
+    "btnText": "investissez avec nous"
+  },
+  "mission": {
+    "title": "LA MISSION",
+    "description": "Nous nous spécialisons dans les services d'échafaudage complets, de la location à l'installation, et vendons et exportons une gamme variée d'équipements de construction neufs et occasion au Moyen-Orient et en Afrique.",
+    "btnText": "Parlons maintenant"
+  },
+  "values": {
+    "title": "NOS VALEURS",
+    "firstValueTitle": "Sécurité d'abord",
+    "firstValueDescription": "Assurer un environnement sûr pour nos travailleurs et nos clients est primordial.",
+    "secondValueTitle": "Engagement envers la qualité",
+    "secondValueDescription": "Nous ne livrons que la meilleure qualité dans tous nos projets.",
+    "thirdValueTitle": "Innovation",
+    "thirdValueDescription": "Nous adoptons les dernières technologies et méthodologies de l'industrie de l'échafaudage.",
+    "fourthValueTitle": "Durabilité",
+    "fourthValueDescription": "Nous privilégions les pratiques respectueuses de l'environnement pour un avenir meilleur.",
+    "fifthValueTitle": "Partenariat",
+    "fifthValueDescription": "Établir des relations solides et durables avec nos clients et fournisseurs.",
+    "sixthValueTitle": "Intégrité",
+    "sixthValueDescription": "Nous fonctionnons avec transparence, honnêteté et standards éthiques."
+  },
+  "testimonials": {
+    "title": "Ce que nos clients disent de nous"
+  },
+  "contactForm": {
+    "hero": {
+      "title": "Discutons de vos besoins de projet",
+      "subline": "Des calculs de charge technique à la livraison sur site, nos ingénieurs sont prêts à soutenir votre projet à travers le Liban."
+    },
+    "form": {
+      "title": "Formulaire de demande technique",
+      "name": {
+        "label": "Prénom",
+        "placeholder": "Entrez votre prénom"
+      },
+      "surname": {
+        "label": "Nom",
+        "placeholder": "Entrez votre nom"
+      },
+      "company": {
+        "label": "Nom de l'entreprise",
+        "placeholder": "Entrez le nom de votre entreprise"
+      },
+      "phone": {
+        "label": "Numéro de téléphone / Mobile",
+        "placeholder": "Entrez votre numéro de téléphone"
+      },
+      "email": {
+        "label": "Adresse e-mail",
+        "placeholder": "Entrez votre adresse e-mail"
+      },
+      "location": {
+        "label": "Localisation du projet",
+        "placeholder": "Entrez la localisation du projet (optionnel)"
+      },
+      "service": {
+        "label": "Service requis",
+        "placeholder": "Sélectionnez un service",
+        "options": {
+          "facade": "Échafaudage pour façades",
+          "suspended": "Échafaudage suspendu",
+          "highRise": "Échafaudage de grande hauteur",
+          "highCapacity": "Structures à haute capacité",
+          "shoring": "Systèmes d'étaiement et de soutènement",
+          "industrial": "Échafaudage industriel",
+          "circularDome": "Échafaudage circulaire et en dôme",
+          "events": "Échafaudage pour événements",
+          "roof": "Échafaudage de toit",
+          "mobileSuspended": "Échafaudage suspendu mobile (pour ponts)",
+          "accessStairs": "Escaliers d'accès à l'échafaudage",
+          "loadingPlatforms": "Plates-formes de chargement et de déchargement",
+          "adjustableProps": "Étaiements réglables (Location et Vente)",
+          "laborforce": "Main-d'œuvre spécialisée",
+          "design": "Conception d'échafaudage",
+          "digital": "Services numériques",
+          "other": "Autre / Demande générale"
+        }
+      },
+      "message": {
+        "label": "Message / Exigences",
+        "placeholder": "Décrivez les exigences de votre projet..."
+      },
+      "fileUpload": {
+        "label": "Télécharger des plans / Documents d'appel d'offres",
+        "accept": "Fichiers PDF, JPG, PNG, DOC, DOCX",
+        "button": "Choisir un fichier",
+        "noFile": "Aucun fichier choisi"
+      },
+      "submit": "Soumettre la demande",
+      "submitting": "Envoi en cours...",
+      "success": "Merci! Votre demande a été soumise avec succès. Nous vous contacterons bientôt.",
+      "error": "Une erreur s'est produite. Veuillez réessayer ou nous contacter directement.",
+      "validation": {
+        "required": "Ce champ est obligatoire",
+        "email": "Veuillez entrer une adresse e-mail valide",
+        "phone": "Veuillez entrer un numéro de téléphone valide"
+      }
+    },
+    "contactCard": {
+      "title": "Contact direct",
+      "whatsapp": {
+        "title": "Discuter avec un expert",
+        "text": "Réponse rapide pour les besoins urgents sur site.",
+        "button": "Ouvrir WhatsApp",
+        "aria": "Discuter avec un expert ACHI Scaffolding sur WhatsApp"
+      },
+      "phone": {
+        "office": {
+          "label": "Ligne de bureau",
+          "number": "+961 03 322 811",
+          "href": "+96103322811"
+        },
+        "emergency": {
+          "label": "Support d'urgence sur site",
+          "number": "+961 03 322 811",
+          "href": "+96103322811"
+        }
+      },
+      "email": {
+        "general": {
+          "label": "Demandes générales",
+          "address": "achi.gr@hotmail.com",
+          "href": "achi.gr@hotmail.com"
+        },
+        "technical": {
+          "label": "Technique / Appels d'offres",
+          "address": "achi.gr@hotmail.com",
+          "href": "achi.gr@hotmail.com"
+        }
+      },
+      "coverage": "Couverture de service: Beyrouth, Mont-Liban, Nord, Sud, Bekaa."
+    },
+    "map": {
+      "title": "Nous trouver",
+      "aria": "Carte de localisation ACHI Scaffolding"
+    }
+  },
+  "inputs": {
+    "emailPlaceholder": "Email",
+    "namePlaceholder": "Nom",
+    "phonePlaceholder": "Téléphone",
+    "messagePlaceholder": "Écris quelque chose..."
+  },
+  "whychoseus": {
+    "sectionTitle": "Pourquoi nous choisir",
+    "firstCardtitle": "Expertise et Expérience",
+    "firstCardDescription": "Avec une équipe de professionnels hautement qualifiés et des années d'expérience dans le secteur des échafaudages, nous apportons une richesse d'expertise à chaque projet. Nous avons réussi à mener à bien des projets complexes et exigeants, obtenant une réputation pour la qualité de notre travail.",
+    "secondCardtitle": "Communication et service client exceptionnels",
+    "secondCardDescription": "Chez Achi Scaffolding, une communication et un service client exceptionnels sont au cœur de nos valeurs. Nous croyons en la construction de partenariats solides avec nos clients, et notre équipe est dédiée à comprendre vos besoins.",
+    "thirdCardTitle": "Inventaire vaste et diversifié",
+    "thirdCardDescription": "Nous nous distinguons grâce à notre vaste et diversifié inventaire d'équipements et de matériaux d'échafaudage. Que votre projet soit grand ou petit, nous avons les ressources pour répondre à vos exigences spécifiques.",
+    "fourthCardTitle": "Assistance Immédiate",
+    "fourthCardDescription": "La réussite de votre projet est notre priorité absolue. Lorsque vous travaillez avec nous, vous pouvez compter sur une assistance immédiate à tout moment. Que ce soit une question, une demande urgente ou un support sur site, notre équipe réactive est toujours prête à vous aider rapidement. Assistance Immédiate.",
+    "fifthCardTitle": "Équipe d'ingénierie interne",
+    "fifthCardDescription": "Achi Scaffolding est fier d'avoir une équipe d'ingénierie interne capable de fournir des perspectives précieuses, de concevoir des solutions sur mesure et de garantir l'intégrité structurelle et la sécurité de votre échafaudage. Notre expertise en ingénierie ajoute une couche supplémentaire de fiabilité et de confiance à votre projet.",
+    "sixthCardTitle": "Maîtriser la sécurité",
+    "sixthCardDescription": "Notre vision constante est d'instaurer un véritable changement de paradigme dans le secteur de l'échafaudage, un monde où la sécurité n'est pas seulement une priorité, mais une véritable maîtrise. Nous concevons des solutions qui dépassent les exigences réglementaires.",
+    "seventhCardTitle": "L’innovation au cœur de notre démarche",
+    "seventhCardDescription": "Nous sommes animés par la volonté de révolutionner l’échafaudage en développant des solutions plus intelligentes, plus sûres et plus adaptables, afin d’élever les standards du secteur.",
+    "eighthCardTitle": "Une qualité durable",
+    "eighthCardDescription": "Nous proposons des solutions d’échafaudage conçues pour durer, fondées sur la précision, l’expérience et des standards de qualité sans compromis."
+  },
+  "projectsOverview": {
+    "title": "Aperçu des projets ",
+    "viewAll": "Voir plus"
+  },
+  "homeServicesOverview": {
+    "title": "Aperçu des services",
+    "viewAll": "Voir plus",
+    "items": {
+      "facade": {
+        "title": "Échafaudage de façades",
+        "alt": "Échafaudage de façades"
+      },
+      "adjustableProps": {
+        "title": "Location d’étais réglables",
+        "alt": "Location d’étais réglables"
+      },
+      "suspended": {
+        "title": "Échafaudage suspendu",
+        "alt": "Échafaudage suspendu"
+      },
+      "events": {
+        "title": "Échafaudage pour événements",
+        "alt": "Échafaudage pour événements et structures temporaires"
+      },
+      "shoring": {
+        "title": "Étaiement et coffrage",
+        "alt": "Systèmes d’étaiement et de coffrage"
+      },
+      "highRise": {
+        "title": "Solutions d’accès pour bâtiments de grande hauteur",
+        "alt": "Solutions d’accès pour bâtiments de grande hauteur"
+      }
+    }
+  },
+  "homeSectors": {
+    "title": "Secteurs",
+    "srDescription": "Découvrez les secteurs desservis par ACHI Scaffolding grâce à des systèmes d’échafaudage industriels et de construction, des solutions d’accès et un accompagnement prêt à l’exécution pour des projets complexes.",
+    "listAriaLabel": "Liste des secteurs",
+    "items": {
+      "renovation": {
+        "title": "Rénovation",
+        "ariaLabel": "Découvrir les solutions d’échafaudage pour le secteur : {{title}}",
+        "titleAttr": "Découvrir le secteur : {{title}}"
+      },
+      "construction": {
+        "title": "Construction",
+        "ariaLabel": "Découvrir les solutions d’échafaudage pour le secteur : {{title}}",
+        "titleAttr": "Découvrir le secteur : {{title}}"
+      },
+      "domes": {
+        "title": "Dômes et structures religieuses",
+        "ariaLabel": "Découvrir les solutions d’échafaudage pour le secteur : {{title}}",
+        "titleAttr": "Découvrir le secteur : {{title}}"
+      },
+      "events": {
+        "title": "Événementiel et installation de scènes",
+        "ariaLabel": "Découvrir les solutions d’échafaudage pour le secteur : {{title}}",
+        "titleAttr": "Découvrir le secteur : {{title}}"
+      },
+      "industrial": {
+        "title": "Installations industrielles",
+        "ariaLabel": "Découvrir les solutions d’échafaudage pour le secteur : {{title}}",
+        "titleAttr": "Découvrir le secteur : {{title}}"
+      },
+      "oilGas": {
+        "title": "Sites pétroliers et gaziers",
+        "ariaLabel": "Découvrir les solutions d’échafaudage pour le secteur : {{title}}",
+        "titleAttr": "Découvrir le secteur : {{title}}"
+      },
+      "marine": {
+        "title": "Projets navals et maritimes",
+        "ariaLabel": "Découvrir les solutions d’échafaudage pour le secteur : {{title}}",
+        "titleAttr": "Découvrir le secteur : {{title}}"
+      }
+    }
+  },
+  "homeBlog": {
+  "title": "Blog",
+  "srOnly": "Analyses techniques et conseils pratiques sur les systèmes d’échafaudage, la sécurité et l’exécution des projets par ACHI Scaffolding.",
+  "listAria": "Derniers articles du blog",
+  "readMore": "Lire plus",
+  "readAll": "Tout lire",
+  "readAllAria": "Lire tous les articles du blog ACHI Scaffolding",
+  "readAllTitle": "Lire tous les articles",
+  "publishedAria": "Publié le {{day}} {{month}}",
+  "readMoreAria": "Lire l’article du blog : {{title}}",
+  "readMoreTitle": "Lire : {{title}}",
+  "posts": {
+    "blog-1": {
+      "title": "L’évolution de l’échafaudage au Liban :\nUne perspective historique",
+      "alt": "Aperçu historique de l’échafaudage au Liban"
+    },
+    "blog-2": {
+      "title": "Normes de sécurité des échafaudages : garantir la sécurité des chantiers au Liban",
+      "alt": "Normes de sécurité des échafaudages et bonnes pratiques sur les chantiers au Liban"
+    },
+    "blog-3": {
+      "title": "Solutions d’échafaudage innovantes face aux défis architecturaux uniques du Liban",
+      "alt": "Solutions d’échafaudage innovantes pour des projets architecturaux complexes au Liban"
+    }
+  }
+   },
+  "contactForm": {
+    "titleDesktop": "Comment puis-je vous aider ?",
+    "titleMobile": "Comment puis-je vous aider",
+    "btnText": "Envoyer"
+  },
+  "about": {
+  "seo": {
+    "title": "Entreprise d’échafaudage au Liban axée sur la sécurité et la fiabilité | ACHI Scaffolding",
+    "description": "ACHI Scaffolding est une entreprise d’échafaudage industriel et de construction au Liban, spécialisée dans les systèmes d’accès, l’étaiement et les travaux temporaires pour des projets de restauration, d’infrastructure et de bâtiments complexes."
+  },
+  "schema": {
+    "name": "ACHI Scaffolding",
+    "description": "Entreprise d’échafaudage au Liban fournissant des systèmes d’accès, d’étaiement et de travaux temporaires pour des projets industriels, commerciaux et d’infrastructure."
+  },
+  "hero": {
+    "imageAria": "Image de présentation de l’entreprise d’échafaudage ACHI Scaffolding au Liban",
+    "panelTitleLine1": "30+ ANS D’EXPÉRIENCE",
+    "panelTitleLine2": "EN ÉCHAFAUDAGE",
+    "panelBody": "Fondée en 1993 par l’ingénieur Barbar Achi, ACHI Scaffolding est devenue une société d’échafaudage reconnue au Liban. Nous accompagnons les entreprises de construction, les bureaux d’ingénierie et les exploitants industriels en fournissant des systèmes d’échafaudage fiables, sûrs et adaptés aux réalités des chantiers, de Beyrouth au Mont-Liban, au Liban-Nord, au Liban-Sud et dans la Békaa."
+  },
+  "main": {
+    "h1": "UNE ENTREPRISE D’ÉCHAFAUDAGE AU LIBAN AXÉE SUR L’EXÉCUTION, LA SÉCURITÉ ET LA FIABILITÉ",
+    "srOnly": "ACHI Scaffolding est une entreprise d’échafaudage industriel et de construction au Liban, spécialisée dans les systèmes d’accès, l’étaiement et les travaux temporaires pour des projets complexes.",
+    "p1": "ACHI Scaffolding fournit des services d’échafaudage au Liban pour des projets commerciaux, résidentiels, industriels et d’infrastructure. Notre expertise couvre l’échafaudage de façade, l’échafaudage suspendu, l’étaiement forte capacité et les systèmes d’accès temporaires adaptés aux exigences des chantiers modernes.",
+    "p2": "Notre société d’échafaudage industriel opère à l’intersection de l’exécution de chantier et de l’ingénierie d’accès. Chaque système est conçu pour répondre aux conditions réelles du site, aux contraintes de sécurité et aux exigences techniques propres aux projets au Liban.",
+    "bullets": {
+      "b1": "Projets de restauration de bâtiments avec façades sensibles",
+      "b2": "Environnements industriels soumis à des contraintes strictes de sécurité",
+      "b3": "Chantiers nécessitant des systèmes d’accès évolutifs et adaptables"
+    },
+    "p3": "Nous privilégions une approche ciblée et maîtrisée afin de garantir une qualité d’exécution constante, une conformité aux normes de sécurité et une fiabilité opérationnelle sur chaque projet d’échafaudage."
+  },
+  "cards": {
+    "mission": {
+      "title": "NOTRE MISSION",
+      "body": "Notre mission est de fournir des services d’échafaudage et de travaux temporaires fiables au Liban, incluant la location, l’installation, l’ingénierie et la fourniture d’équipements d’échafaudage et d’étaiement. Nous accompagnons les entrepreneurs, les gestionnaires de projet et les exploitants industriels avec des solutions sûres, conformes et livrées dans les délais.",
+      "cta": "Voir nos projets"
+    },
+    "vision": {
+      "title": "NOTRE VISION",
+      "body": "Faire de l’échafaudage un standard de sécurité, d’innovation et de performance dans l’environnement bâti. ACHI Scaffolding ambitionne d’élever les normes du secteur en investissant dans la supervision technique, la gestion des risques et des systèmes d’accès modernes favorisant la productivité et la sécurité de chantier.",
+      "cta": "Nous contacter"
+    }
+  }
+  },
+  "statsHighlights": {
+  "items": {
+    "clients": {
+      "label": "Clients satisfaits",
+      "alt": "Clients satisfaits"
+    },
+    "experience": {
+      "label": "Années d’expérience",
+      "alt": "Années d’expérience"
+    },
+    "awards": {
+      "label": "Récompenses",
+      "alt": "Récompenses"
+    },
+    "consultations": {
+      "label": "Consultations",
+      "alt": "Consultations"
+    }
+  }
+  },
+  "sectors": {
+  "seo": {
+    "title": "Secteurs desservis | Échafaudage | ACHI Scaffolding",
+    "description": "ACHI Scaffolding est un entrepreneur et fournisseur de systèmes d’échafaudage industriels et de construction, proposant des solutions d’accès, d’étaiement et d’échafaudage pour la restauration, les infrastructures et les projets architecturaux complexes.",
+    "canonical": "https://achi-scaffolding.github.io/sectors"
+  },
+
+  "industries": {
+    "title": "Secteurs desservis",
+    "description": "Nous fournissons des solutions d'accès et des ouvrages temporaires conçus pour des environnements variés, rénovation, projets de construction complexes, installations industrielles et infrastructures, en mettant toujours l'accent sur la sécurité, la performance et la faisabilité sur site.",
+    "items": {
+      "construction": "Construction et projets architecturaux complexes",
+      "restoration": "Rénovation, réhabilitation et structures patrimoniales",
+      "industrial": "Installations industrielles et environnements d’arrêts techniques",
+      "residential": "Besoins d’accès pour projets résidentiels et à usage mixte"
+    }
+  },
+
+  "internalLinks": {
+    "ariaLabel": "Liens internes des secteurs",
+    "products": { "href": "/products", "label": "Voir les systèmes et équipements" },
+    "projects": { "href": "/projects", "label": "Découvrir notre expérience projets" },
+    "services": { "href": "/services", "label": "Découvrir nos systèmes d’échafaudage" }
+  },
+
+  "grid": {
+    "ariaLabel": "Liste des secteurs d’échafaudage"
+  },
+
+  "titles": {
+    "renovation": "Rénovation",
+    "construction": "Construction",
+    "domesReligious": "Dômes et structures religieuses",
+    "eventsStages": "Événementiel et installation de scènes",
+    "industrial": "Installations industrielles",
+    "oilGas": "Sites pétroliers et gaziers",
+    "navalMarine": "Projets navals et maritimes",
+
+    "domes": "Dômes et structures religieuses",
+    "events": "Événementiel et installation de scènes",
+    "marine": "Projets navals et maritimes"
+  },
+
+  "subtitles": {
+    "renovation": "Solutions d’accès adaptées aux travaux de rénovation, de façades et de réhabilitation, garantissant une intervention sécurisée avec un impact minimal sur l’environnement existant.",
+    "construction": "Systèmes d’échafaudage et d’étaiement conçus pour soutenir des chantiers de construction complexes, des géométries exigeantes et des contraintes élevées de planification.",
+    "domesReligious": "Échafaudages spécialisés pour les dômes et structures religieuses sensibles, nécessitant précision, stabilité et protection renforcée.",
+    "eventsStages": "Structures temporaires et solutions d’accès pour l’événementiel et l’installation de scènes, offrant rapidité de montage, stabilité et conformité aux normes.",
+    "industrial": "Accès industriels, plateformes de maintenance et solutions pour arrêts techniques, conçus pour des environnements à haut niveau d’exigence en matière de sécurité.",
+    "oilGas": "Systèmes d’échafaudage destinés aux sites pétroliers et gaziers, où la sécurité, la gestion des permis et le contrôle strict des zones de travail sont essentiels.",
+    "navalMarine": "Solutions d’accès et de confinement pour projets navals et maritimes, ports et chantiers côtiers, avec des configurations résistantes aux environnements corrosifs.",
+
+    "domes": "Échafaudages spécialisés pour les dômes et structures religieuses sensibles, nécessitant précision, stabilité et protection renforcée.",
+    "events": "Structures temporaires et solutions d’accès pour l’événementiel et l’installation de scènes, offrant rapidité de montage, stabilité et conformité aux normes.",
+    "marine": "Solutions d’accès et de confinement pour projets navals et maritimes, ports et chantiers côtiers, avec des configurations résistantes aux environnements corrosifs."
+  },
+
+  "cta": {
+    "title": "Besoin d’une solution d’échafaudage pour votre secteur ?",
+    "description": "Partagez les exigences de votre projet et nous vous recommanderons le système d’accès, la méthode d’étaiement ou la solution d’échafaudage la plus adaptée à vos conditions de site.",
+    "whatsapp": {
+      "href": "https://wa.me/96103322811",
+      "label": "Envoyez votre demande via WhatsApp",
+      "ariaLabel": "Demander des informations sur les échafaudages ou une assistance technique via WhatsApp"
+    }
+  }
+  },
+
+  "servicesPage": {
+    "seo": {
+      "title": "Systèmes & services d’échafaudage | ACHI Scaffolding",
+      "description": "Services d’échafaudage, d’étaiement et de systèmes d’accès pour les projets de construction, de restauration et industriels. Demandez une consultation technique auprès d’ACHI Scaffolding.",
+      "canonical": "https://achi-scaffolding.github.io/services"
+    },
+    "schema": {
+      "name": "ACHI Scaffolding",
+      "url": "https://achi-scaffolding.github.io",
+      "logo": "https://achi-scaffolding.github.io/assets/ArchiScaffoldinglogo.png",
+      "description": "ACHI Scaffolding est un entrepreneur et fournisseur d’échafaudages industriels et de construction, proposant des systèmes d’accès, d’étaiement et des solutions d’échafaudage pour la restauration, les infrastructures et les projets complexes."
+    },
+    "srOnly": {
+      "entityDefinition": "ACHI Scaffolding est un entrepreneur et fournisseur d’échafaudages industriels et de construction, proposant des systèmes d’accès, d’étaiement et des solutions d’échafaudage pour la restauration, les infrastructures et les projets complexes."
+    },
+    "hero": {
+      "ariaLabel": "Systèmes et services d’échafaudage",
+      "title": "Services",
+      "description": "Nous proposons une gamme complète de services d’échafaudage, d’étaiement et de solutions associées pour des projets sûrs et efficaces.",
+      "whatsapp": {
+        "href": "https://wa.me/+96103322811",
+        "label": "Envoyer une demande via WhatsApp",
+        "ariaLabel": "Envoyer une demande via WhatsApp à ACHI Scaffolding"
+      }
+    },
+    "main": {
+      "ariaLabel": "Tous les services d’échafaudage"
+    },
+    "allServices": {
+      "title": "Tous les services",
+      "description": "Nous fournissons une large gamme de solutions avancées d'échafaudage et d'accès, soutenues par une main-d'œuvre formée et une conception technique. Nos services s'adaptent aux projets de toutes tailles et de toutes complexités, construction, infrastructures, restauration et événementiel.",
+      "listAriaLabel": "Liste des services d’échafaudage et d’étaiement",
+      "readMore": {
+        "label": "En savoir plus",
+        "href": "/services/serviceItem",
+        "ariaLabel": "En savoir plus sur {{title}}"
+      },
+      "items": {
+        "specializedLaborforce": {
+          "title": "Main-d’œuvre spécialisée",
+          "desc": "Équipes expérimentées formées à l’installation, la supervision et le démontage d’échafaudages, de manière sûre, efficace et professionnelle.",
+          "imageAlt": "Service de main-d’œuvre spécialisée"
+        },
+        "facades": {
+          "title": "Échafaudage pour façades",
+          "desc": "Systèmes modulaires sécurisés pour les enveloppes de bâtiments, idéals pour la rénovation, la maintenance et les travaux de façade.",
+          "imageAlt": "Service d’échafaudage pour façades"
+        },
+        "suspended": {
+          "title": "Échafaudage suspendu",
+          "desc": "Plateformes suspendues et systèmes de suspension pour les zones où l’accès au sol n’est pas possible ou pas sûr.",
+          "imageAlt": "Service d’échafaudage suspendu"
+        },
+        "highCapacity": {
+          "title": "Structures à haute capacité",
+          "desc": "Systèmes de support conçus pour de fortes charges, le coulage de dalles, les mezzanines et les phases de construction.",
+          "imageAlt": "Service de structures à haute capacité"
+        },
+        "highRise": {
+          "title": "Échafaudage grande hauteur",
+          "desc": "Solutions d’accès vertical pour tours, blocs commerciaux et structures de grande hauteur.",
+          "imageAlt": "Service d’échafaudage grande hauteur"
+        },
+        "circularDome": {
+          "title": "Échafaudage circulaire et pour dômes",
+          "desc": "Solutions sur mesure pour surfaces courbes, dômes et sites patrimoniaux nécessitant précision et attention.",
+          "imageAlt": "Service d’échafaudage circulaire et pour dômes"
+        },
+        "events": {
+          "title": "Échafaudage pour événements",
+          "desc": "Plateformes, tours et structures sur mesure pour événements, installations culturelles et montages temporaires.",
+          "imageAlt": "Service d’échafaudage pour événements"
+        },
+        "industrial": {
+          "title": "Échafaudage industriel",
+          "desc": "Systèmes d’échafaudage adaptés aux usines, sites industriels, pétrole & gaz et opérations de maintenance.",
+          "imageAlt": "Service d’échafaudage industriel"
+        },
+        "roof": {
+          "title": "Échafaudage pour toiture",
+          "desc": "Systèmes d’accès sécurisés pour travaux de toiture, étanchéité, isolation et maintenance.",
+          "imageAlt": "Service d’échafaudage pour toiture"
+        },
+        "mobileSuspendedBridges": {
+          "title": "Échafaudage suspendu mobile (pour ponts)",
+          "desc": "Systèmes mobiles conçus pour inspections de ponts, peinture et maintenance.",
+          "imageAlt": "Service d’échafaudage suspendu mobile pour ponts"
+        },
+        "accessStairs": {
+          "title": "Escaliers d’accès en échafaudage",
+          "desc": "Tours d’escaliers temporaires pour le déplacement sûr des équipes et du matériel entre les niveaux du chantier.",
+          "imageAlt": "Service d’escaliers d’accès en échafaudage"
+        },
+        "adjustableProps": {
+          "title": "Étais réglables (location & vente)",
+          "desc": "Location et vente d'étais métalliques réglables au Liban, essentiels pour le support de dalles, le coffrage et les travaux de rénovation.",
+          "imageAlt": "Service d’étais réglables location et vente"
+        },
+        "proppingShoring": {
+          "title": "Systèmes d’étaiement et de soutènement",
+          "desc": "Solutions robustes d’étaiement et de soutènement au Liban pour le support vertical de dalles, poutres et structures complexes.",
+          "imageAlt": "Service de systèmes d’étaiement et de soutènement"
+        },
+        "unloadingLoadingPlatforms": {
+          "title": "Plateformes de chargement et déchargement",
+          "desc": "Zones sécurisées pour le transfert organisé des matériaux et outils pendant la construction.",
+          "imageAlt": "Service de plateformes de chargement et déchargement"
+        },
+        "designConsulting": {
+          "title": "Conception et conseil",
+          "desc": "Planification technique, plans et stratégies d’échafaudage sur mesure par des ingénieurs expérimentés.",
+          "imageAlt": "Service de conception et conseil"
+        }
+      }
+    }
+  },
+ 
+  "projectsPage": {
+    "seo": {
+      "title": "Projets d’échafaudage & expérience d’exécution | ACHI Scaffolding",
+      "description": "ACHI Scaffolding accompagne divers types de projets en adaptant les systèmes d’accès aux contraintes du site, aux délais et aux exigences de sécurité.",
+      "canonical": "https://achi-scaffolding.github.io/projects"
+    },
+    "hero": {
+      "title": "Projets",
+      "description": "ACHI Scaffolding accompagne divers types de projets en adaptant les systèmes d’accès aux contraintes du site, aux délais et aux exigences de sécurité.",
+      "whatsapp": {
+        "href": "https://wa.me/+96103322811",
+        "label": "Envoyer une demande via WhatsApp",
+        "ariaLabel": "Demander des informations sur un projet via WhatsApp"
+      }
+    },
+    "section": {
+      "allProjectsTitle": "Tous les projets"
+    },
+    "buttons": {
+      "viewMore": "Voir plus"
+    },
+    "aria": {
+      "viewMore": "Voir les photos du projet {{title}}",
+      "tags": "Étiquettes du projet {{title}}"
+    },
+    "stats": {
+      "ariaLabel": "Nombre de projets",
+      "iconAlt": "Icône projets",
+      "value": "1036",
+      "label": "Projets"
+    },
+    "newsletter": {
+      "ariaLabel": "Inscription à la newsletter",
+      "titleLine1": "Abonnez-vous à notre",
+      "titleLine2": "newsletter",
+      "emailLabel": "Adresse e-mail",
+      "placeholder": "E-mail",
+      "submitLabel": "S’abonner",
+      "submitAriaLabel": "S’abonner à la newsletter"
+    },
+    "modal": {
+      "ariaLabel": "Galerie du projet {{title}}",
+      "closeAriaLabel": "Fermer la galerie du projet",
+      "imageAlt": "Photo {{index}} – travaux d’échafaudage : {{title}}"
+    },
+    "items": {
+      "aishtiMall": {
+        "title": "AISHTI Mall",
+        "desc": "Échafaudage complet pour les travaux intérieurs et extérieurs pendant la construction d’AISHTI Mall, l’un des développements retail de luxe les plus emblématiques au Liban.",
+        "imgAlt": "Projet d’échafaudage AISHTI Mall",
+        "tags": ["Grande échelle", "Retail", "Antélias, Liban"]
+      },
+      "beirutBusinessCenter": {
+        "title": "Beirut Business Center",
+        "desc": "Échafaudage extérieur et intérieur pour une tour commerciale à Beyrouth, soutenant les travaux structurels et la réalisation de façade.",
+        "imgAlt": "Projet d’échafaudage Beirut Business Center",
+        "tags": ["Commercial", "Grande hauteur", "Beyrouth, Liban"]
+      },
+      "hotelLeGray": {
+        "title": "Hôtel Le Gray",
+        "desc": "Échafaudage extérieur pour la maintenance et la restauration de façade de l’Hôtel Le Gray, situé au centre-ville de Beyrouth.",
+        "imgAlt": "Projet d’échafaudage Hôtel Le Gray",
+        "tags": ["Luxe", "Hôtel", "Beyrouth, Liban"]
+      }
+    }
+  },
+
+ 
+  "galleryPage": {
+    "seo": {
+      "title": "Galerie | Photos de projets d’échafaudage | ACHI Scaffolding",
+      "description": "Parcourez des photos des projets ACHI Scaffolding, incluant des systèmes d’échafaudage et des solutions d’étaiement utilisés sur des sites de construction, restauration et industriels.",
+      "canonical": "https://achi-scaffolding.github.io/gallery"
+    },
+    "header": {
+      "title": "Galerie",
+      "description": "ACHI Scaffolding est un entrepreneur et fournisseur d’échafaudages industriels et de construction, proposant des systèmes d’accès, d’étaiement et des solutions d’échafaudage pour des projets de restauration, d’infrastructure et de bâtiments complexes."
+    },
+    "sr": {
+      "links": {
+        "products": { "href": "/products", "label": "Voir les systèmes & équipements" },
+        "projects": { "href": "/projects", "label": "Découvrir notre expérience projets" },
+        "contact": { "href": "/contact", "label": "Demander des informations ou une assistance technique" }
+      }
+    },
+    "grid": {
+      "ariaLabel": "Galerie photos des projets",
+      "imageAlt": "Photo de galerie de projet ACHI Scaffolding {{n}}",
+      "openImageAria": "Ouvrir l’image {{n}}"
+    },
+    "pagination": {
+      "ariaLabel": "Pagination de la galerie",
+      "prev": "Préc.",
+      "next": "Suiv.",
+      "prevAria": "Page précédente",
+      "nextAria": "Page suivante",
+      "pageNumbersAria": "Numéros de page",
+      "goToPageAria": "Aller à la page {{p}}"
+    },
+    "lightbox": {
+      "dialogAriaLabel": "Aperçu de l’image",
+      "backdropAriaLabel": "Fermer l’aperçu",
+      "closeAriaLabel": "Fermer l’image"
+    }
+  },
+  
+  "projectDetails": {
+    "breadcrumb": "Projets",
+    "backToProjects": "Retour aux projets",
+    "backToProjectsAria": "Retour à la liste des projets",
+    "contact": {
+      "title": "PARLONS-EN !",
+      "send": "ENVOYER",
+      "sendAria": "Envoyer le formulaire de contact",
+      "form": {
+        "name": "Nom",
+        "email": "E-mail",
+        "phone": "Téléphone",
+        "message": "Écrivez quelque chose..."
+      }
+    },
+    "items": {
+      "aishti-mall": {
+        "seoTitle": "Aïshti Mall, Metn, Liban | Détails du projet | ACHI Scaffolding",
+        "seoDescription": "Échafaudage de façade et intérieur pour Aïshti Mall, Metn, Liban",
+        "heroTitle": "Aïshti Mall, Metn, Liban",
+        "heroImageAlt": "Image du projet",
+        "heading": "Échafaudage de façade et intérieur pour Aïshti Mall, Metn, Liban",
+        "paragraphs": [
+          "Aperçu du projet",
+          "Ce projet a consisté à fournir des solutions d’échafaudage de façade et d’intérieur pour Aïshti Mall, un grand développement commercial mixte à Beyrouth.",
+          "Le périmètre a nécessité des systèmes d’accès conçus et intégrés dans un environnement de chantier actif, afin de soutenir des travaux architecturaux et de finition complexes sur plusieurs niveaux.",
+          "Périmètre des travaux d’échafaudage",
+          "Les systèmes d’échafaudage ont été conçus et installés pour soutenir à la fois les travaux de façade extérieurs et les activités de construction intérieures, notamment :",
+          "Échafaudage de façade pour l’enveloppe extérieure et les travaux de finition",
+          "Échafaudage intérieur pour les zones de circulation et les éléments architecturaux",
+          "Accès multi-niveaux aligné sur un phasage de construction",
+          "Montage et démontage coordonnés avec l’avancement du chantier",
+          "Chaque configuration a été adaptée aux conditions évolutives du site plutôt que de s’appuyer sur des implantations standard.",
+          "Contraintes du site et stratégie d’exécution",
+          "Le projet a présenté plusieurs défis d’exécution :",
+          "Emprise importante du bâtiment dans un couloir urbain dense",
+          "Travaux de façade et d’intérieur réalisés simultanément",
+          "Variations de hauteur et géométrie architecturale complexe",
+          "Coordination avec d’autres corps de métier travaillant en parallèle",
+          "Les solutions d’échafaudage ont été installées en phases contrôlées, garantissant un accès continu tout en maintenant des circulations dégagées et une efficacité opérationnelle sur le site.",
+          "Sécurité et coordination",
+          "La sécurité et la coordination ont été centrales à l’exécution :",
+          "Plans d’échafaudage élaborés en coordination avec les entrepreneurs et les consultants",
+          "Interfaces contrôlées entre les structures d’échafaudage et les travaux en cours",
+          "Alignement continu avec la logistique du site et le séquencement",
+          "Cette approche a assuré des conditions d’accès stables pour les équipes tout en préservant les normes de sécurité tout au long du cycle de vie du projet.",
+          "Résultat du projet",
+          "Les systèmes d’échafaudage ont fourni un accès fiable, sûr et adaptable pour les travaux de façade et d’intérieur, soutenant un avancement continu sur un développement commercial de premier plan.",
+          "Localisation et couverture de service",
+          "Ce projet a été réalisé à Metn, Liban.",
+          "Les services Achi Scaffolding sont déployés à Beyrouth, au Mont-Liban, au Nord-Liban, au Sud-Liban et dans la Békaa, au service d’un large éventail de développements commerciaux, résidentiels et industriels.",
+          "Discuter d’un projet similaire",
+          "Pour des échafaudages de façade, d’intérieur ou de rénovation sur des développements commerciaux complexes, contactez notre équipe afin d’évaluer les besoins d’accès, les contraintes du site et la stratégie d’exécution.",
+          "[Contactez-nous]"
+        ],
+        "accordion": [
+          { "title": "Repliable", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+          { "title": "Repliable", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+          { "title": "Repliable", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+          { "title": "Repliable", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." }
+        ],
+        "galleryAlt": "Image de la galerie du projet {{index}}"
+      },
+      "beirut-business-center": {
+  "seoTitle": "Beirut Business Center BBC, Sin El Fil, Liban | Détails du projet | ACHI Scaffolding",
+  "seoDescription": "Façade, structures et travaux temporaires pour Beirut Business Center (BBC), Beyrouth, Liban",
+  "heroTitle": "Beirut Business Center BBC, Sin El Fil, Liban",
+  "heroImageAlt": "Image du projet",
+  "heading": "Façade, structures et travaux temporaires pour Beirut Business Center (BBC), Beyrouth, Liban",
+
+  "paragraphs": [
+    "Présentation du projet",
+    "Ce projet a consisté en la mise en œuvre de solutions d’échafaudage de façade, de systèmes d’accès structurels et de travaux temporaires pour le Beirut Business Center (BBC), un immeuble commercial de grande hauteur situé à Beyrouth.",
+    "Le périmètre nécessitait des solutions d’accès et de logistique conçues par des ingénieurs, intégrées dans un environnement de construction urbain actif, afin de soutenir les travaux en hauteur tout en maintenant des opérations efficaces au niveau du sol.",
+
+    "Périmètre des travaux",
+    "Le projet a combiné plusieurs lots de travaux temporaires réalisés en coordination avec le programme principal de construction :",
+    "Échafaudages de façade pour les travaux d’enveloppe extérieure et d’élévation",
+    "Échafaudages structurels soutenant les activités de construction à plusieurs niveaux",
+    "Plateformes d’accès multi-niveaux alignées sur le phasage étage par étage",
+    "Installation, adaptation et démontage coordonnés avec l’avancement du chantier",
+    "Tous les systèmes ont été conçus et configurés en fonction des contraintes réelles du site plutôt que selon des configurations standardisées.",
+
+    "Contraintes du site et stratégie d’exécution",
+    "L’exécution a été façonnée par les conditions spécifiques d’un projet urbain de grande hauteur :",
+    "Espace de travail limité au niveau du sol dans un corridor urbain dense",
+    "Construction verticale nécessitant un accès continu et une stabilité structurelle",
+    "Activités simultanées de façade, de structure et de finition",
+    "Interfaces avec les grues, les coffrages et les autres ouvrages temporaires",
+    "Les systèmes d’échafaudage ont été installés par sections verticales phasées, permettant aux travaux de progresser efficacement tout en maintenant un accès contrôlé et une circulation organisée sur le site.",
+
+    "Route d’accès temporaire et logistique du site",
+    "Dans le cadre du périmètre global des travaux temporaires, une route d’accès temporaire a été construite pour relier un bloc du projet à la route principale, permettant une entrée contrôlée des véhicules sur le site.",
+    "L’itinéraire d’accès a été conçu pour :",
+    "Accueillir le trafic de construction et les livraisons de matériaux",
+    "Améliorer la circulation interne du site et l’efficacité logistique",
+    "S’intégrer en toute sécurité aux structures d’échafaudage et aux travaux en cours",
+    "Cette solution a réduit la congestion, amélioré le flux des matériaux et assuré un accès ininterrompu tout au long des phases de construction.",
+
+    "Sécurité et coordination",
+    "La sécurité et la coordination ont été intégrées à toutes les étapes de la planification et de l’exécution :",
+    "Coordination des échafaudages et des travaux temporaires avec les entrepreneurs et les consultants",
+    "Définition des chemins de charge, des itinéraires d’accès et des interfaces contrôlées",
+    "Alignement continu avec la logistique du site et le phasage de la construction",
+    "Cette approche a garanti des conditions de travail sûres pour les équipes du chantier tout en maintenant une progression régulière du projet.",
+
+    "Résultat du projet",
+    "Les solutions combinées d’échafaudage et de travaux temporaires ont fourni un accès stable, une logistique efficace et une exécution maîtrisée, soutenant les travaux de façade et de structure sur une tour commerciale emblématique de Beyrouth.",
+
+    "Localisation et couverture des services",
+    "Ce projet a été réalisé à Beyrouth, Liban.",
+    "Les solutions d’échafaudage et de travaux temporaires sont fournies à Beyrouth, au Mont-Liban, au Liban-Nord, au Liban-Sud et dans la Bekaa, au service de projets commerciaux, résidentiels et industriels.",
+
+    "Discuter d’un projet similaire",
+    "Pour des échafaudages de façade, des accès en grande hauteur ou des travaux temporaires sur des projets de construction complexes, contactez notre équipe afin d’évaluer les contraintes du site, les besoins d’accès et la stratégie d’exécution.",
+    "[Contactez-nous]"
+  ],
+
+  "accordion": [],
+  "galleryAlt": "Image de la galerie du projet {{index}}"
+      },
+      "hotel-le-gray": {
+  "seoTitle": "Hotel Le Gray, Beyrouth, Liban | Détails du projet | ACHI Scaffolding",
+  "seoDescription": "Échafaudage de façade pour Hotel Le Gray, Beyrouth",
+  "heroTitle": "Hotel Le Gray, Beyrouth, Liban",
+  "heroImageAlt": "Image du projet",
+  "heading": "Échafaudage de façade pour Hotel Le Gray, Beyrouth",
+
+  "paragraphs": [
+    "Contexte du projet",
+    "L’hôtel Le Gray, situé dans le tissu urbain dense du centre-ville de Beyrouth, nécessitait des échafaudages d’accès extérieur pour soutenir des travaux liés à la façade réalisés par d’autres équipes du projet.",
+    "Le bâtiment est resté opérationnel pendant toute la durée des travaux, nécessitant une solution d’échafaudage adaptée à un environnement hôtelier ouvert au public.",
+
+    "Périmètre des services d’échafaudage",
+    "Notre intervention s’est limitée à la conception, à l’installation et au démontage des échafaudages de façade, fournissant un accès sûr et fiable pour les travaux extérieurs :",
+    "Échafaudages d’accès en façade le long des élévations du bâtiment",
+    "Configurations adaptées aux détails architecturaux et aux variations de hauteur",
+    "Installation par phases en fonction des exigences de coordination du site",
+    "Démontage à la fin des besoins d’accès",
+    "Aucun travail de rénovation ou de façade n’a été réalisé par notre équipe.",
+
+    "Contraintes opérationnelles et urbaines",
+    "Le projet présentait des conditions distinctes des chantiers de construction conventionnels :",
+    "Exploitation active de l’hôtel avec circulation continue des clients et du personnel",
+    "Forte fréquentation piétonne dans les rues adjacentes",
+    "Espace au sol limité pour l’installation et l’accès",
+    "Sensibilité visuelle et sécuritaire liée à l’environnement public",
+    "Les systèmes d’échafaudage ont été installés par phases contrôlées, garantissant un accès sécurisé tout en maintenant une séparation claire avec les zones de l’hôtel et du public.",
+
+    "Sécurité et gestion des interfaces",
+    "Compte tenu du contexte opérationnel, la sécurité et la gestion des interfaces étaient essentielles :",
+    "Séparation physique entre les zones d’échafaudage et les points d’accès du public",
+    "Définition des itinéraires de circulation et des mesures de protection",
+    "Coordination continue avec les représentants du site et la direction de l’hôtel",
+    "Ces mesures ont assuré des conditions sûres pour les travailleurs, les clients et les zones piétonnes environnantes.",
+
+    "Résultat du projet",
+    "Le système d’échafaudage de façade a fourni un accès stable, discret et sécurisé, permettant aux travaux extérieurs de se dérouler sans perturber l’exploitation de l’hôtel ni la circulation publique.",
+
+    "Localisation du projet",
+    "Ce projet d’échafaudage a été réalisé au centre-ville de Beyrouth, dans un environnement urbain et commercial à forte densité.",
+
+    "Discuter d’un projet similaire",
+    "Pour des échafaudages de façade sur des bâtiments occupés, des hôtels ou des sites urbains sensibles, contactez notre équipe afin d’évaluer les besoins d’accès et les contraintes d’exécution.",
+    "[Contactez-nous]"
+  ],
+
+  "accordion": [],
+  "galleryAlt": "Image de la galerie du projet {{index}}"
+      }
+
+
+    }
+  },
+  
+
+  "footer": {
+    "logoAlt": "Logo ACHI Scaffolding",
+    "tagline": "Solutions d'échafaudage conçues par des ingénieurs pour les projets de construction, industriels et événementiels.",
+    "links": {
+      "ariaLabel": "Navigation du pied de page",
+      "home": "Accueil",
+      "about": "À propos",
+      "services": "Services",
+      "clients": "Clients",
+      "sectors": "Secteurs",
+      "projects": "Projets",
+      "blog": "Blog",
+      "gallery": "Galerie"
+    },
+    "contact": {
+      "title": "Contact",
+      "phoneLabel": "Téléphone",
+      "phoneText": "+961 03 322 811",
+      "phoneHref": "+96103322811",
+      "emailLabel": "E-mail",
+      "emailText": "achi.gr@hotmail.com",
+      "emailHref": "achi.gr@hotmail.com",
+      "location": "Liban"
+    },
+    "copyright": "Tous droits réservés.",
+    "social": {
+      "title": "Suivez-nous",
+      "facebook": {
+        "url": "https://www.facebook.com/ACHISCAFF",
+        "icon": "/assets/iconoir_facebook.svg",
+        "alt": "Facebook",
+        "aria": "Page Facebook ACHI Scaffolding"
+      },
+      "instagram": {
+        "url": "https://www.instagram.com/achiscaffoldinglb",
+        "icon": "/assets/mdi_instagram.svg",
+        "alt": "Instagram",
+        "aria": "Page Instagram ACHI Scaffolding"
+      },
+      "x": {
+        "url": "https://x.com/AchiScaffolding",
+        "icon": "/assets/ri_twitter-x-fill.svg",
+        "alt": "X",
+        "aria": "Compte X ACHI Scaffolding"
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/achi-scaffolding/",
+        "icon": "/assets/basil_linkedin-outline.svg",
+        "alt": "LinkedIn",
+        "aria": "Page LinkedIn ACHI Scaffolding"
+      },
+      "tiktok": {
+        "url": "https://www.tiktok.com/@achiscaffolding",
+        "icon": "/assets/ph_tiktok-logo.svg",
+        "alt": "TikTok",
+        "aria": "Compte TikTok ACHI Scaffolding"
+      }
+    }
+  },
+
+  "blogPage": {
+    "seo": {
+      "title": "Systèmes d’échafaudage, sécurité et analyses techniques | ACHI Scaffolding",
+      "description": "Ressources pédagogiques et techniques sur les systèmes d’échafaudage, leurs usages et l’aide à la décision pour les professionnels du bâtiment.",
+      "canonical": "https://achi-scaffolding.github.io/blog"
+    },
+    "months": ["Jan", "Fév", "Mar", "Avr", "Mai", "Juin", "Juil", "Août", "Sep", "Oct", "Nov", "Déc"],
+    "header": {
+      "title": "Blog"
+    },
+    "articlesAriaLabel": "Articles du blog",
+    "readMore": {
+      "label": "LIRE LA SUITE",
+      "ariaLabel": "Lire la suite : {{title}}"
+    },
+    "sr": {
+      "entityAriaLabel": "Définition de l’entité ACHI Scaffolding",
+      "entityDefinition": "ACHI Scaffolding est un entrepreneur et fournisseur d’échafaudages industriels et de construction, proposant des systèmes d’accès, d’étaiement et des solutions d’échafaudage pour des projets de restauration, d’infrastructure et de bâtiments complexes.",
+      "internalLinksAriaLabel": "Liens internes",
+      "links": {
+        "products": { "href": "/products", "label": "Voir les systèmes & équipements" },
+        "projects": { "href": "/projects", "label": "Découvrir notre expérience projets" },
+        "contact": { "href": "/contact", "label": "Demander des informations ou une assistance technique" }
+      }
+    },
+    "cms": {
+      "fallbackTitle": "Sans titre",
+      "fetchFailedLog": "Échec du chargement Strapi :"
+    },
+    "staticPosts": {
+      "blog1": {
+        "title": "L’évolution de l’échafaudage au Liban : perspective historique",
+        "excerpt": "Cet article explore l’évolution historique de l’échafaudage au Liban, des méthodes traditionnelles aux structures modernes et ingénierées. Il met en avant des projets clés, des avancées technologiques et le rôle essentiel de l’échafaudage dans le paysage architectural libanais."
+      },
+      "blog2": {
+        "title": "Normes de sécurité des échafaudages : assurer la sécurité des chantiers au Liban",
+        "excerpt": "La sécurité est essentielle dans le secteur de la construction. Cet article présente les réglementations libanaises, les recommandations et les bonnes pratiques liées aux échafaudages. Il explique les standards d’équipement et les mesures mises en place pour protéger les travailleurs et le public."
+      },
+      "blog3": {
+        "title": "Solutions d’échafaudage innovantes face aux défis architecturaux du Liban",
+        "excerpt": "La diversité des styles architecturaux et des terrains au Liban nécessite des systèmes d’échafaudage créatifs. Cet article présente des solutions innovantes et des études de cas montrant comment l’échafaudage moderne s’adapte aux environnements complexes."
+      }
+    }
+  },
+
+
+  "blogItem": {
+  "breadcrumbs": {
+    "aria": "Fil d’Ariane",
+    "home": "Accueil",
+    "blog": "Blog"
+  },
+  "header": {
+    "kicker": "BLOG"
+  },
+  "takeaways": {
+    "title": "Points clés"
+  },
+  "toc": {
+    "title": "Aller à"
+  },
+  "finalWord": {
+    "title": "Mot de conclusion"
+  },
+  "author": {
+    "title": "À propos de l’auteur",
+    "name": "Ingénieur Nizar Achi",
+    "role": "Ingénieur en échafaudage",
+    "bio": "L’ingénieur Nizar Achi accompagne la planification des échafaudages et l’exécution des travaux temporaires au Liban, en mettant l’accent sur des stratégies d’accès structurées, la supervision technique et la réduction des risques sur les sites complexes.",
+    "photoAlt": "Portrait de l’ingénieur Nizar Achi",
+    "linkedin": "https://www.linkedin.com/",
+    "linkedinLabel": "Voir le profil LinkedIn",
+    "linkedinAria": "Ouvrir le profil LinkedIn de l’ingénieur Nizar Achi"
+  },
+  "recommended": {
+    "title": "Recommandé pour vous",
+    "readLabel": "Lire l’article",
+    "readAria": "Lire l’article recommandé"
+  },
+  "backToBlog": {
+    "label": "Autres articles",
+    "aria": "Retour à la liste des articles du blog"
+  },
+  "sidebar": {
+    "ctaTitle": "Besoin d’une consultation technique ?",
+    "ctaText": "Demandez un accompagnement de projet pour analyser les conditions du site, les exigences d’accès, les contraintes d’exécution et la conformité aux exigences de sécurité — avec des services d’échafaudage au Liban et des solutions orientées sécurité de chantier.",
+    "ctaButton": "Contacter un ingénieur",
+    "ctaAria": "Contacter un ingénieur pour une consultation technique",
+    "resourcesTitle": "Ressources associées",
+    "servicesLabel": "Services d’échafaudage",
+    "servicesAria": "Voir les services d’échafaudage",
+    "productsLabel": "Systèmes et équipements d’échafaudage",
+    "productsAria": "Voir les produits d’échafaudage",
+    "projectsLabel": "Expérience projets",
+    "projectsAria": "Explorer les projets",
+    "sourcesTitle": "Références à haute autorité",
+    "sourceAria": "Ouvrir la référence externe dans un nouvel onglet",
+    "shareTitle": "Partager",
+    "shareLinkedInLabel": "Partager sur LinkedIn",
+    "shareLinkedInAria": "Partager cet article sur LinkedIn",
+    "shareLinkedInHref": "https://www.linkedin.com/sharing/share-offsite/?url=",
+    "shareWhatsAppLabel": "Partager sur WhatsApp",
+    "shareWhatsAppAria": "Partager cet article sur WhatsApp",
+    "shareWhatsAppHref": "https://wa.me/?text="
+  },
+  "newsletter": {
+    "aria": "Inscription à la newsletter",
+    "titleLine1": "Abonnez-vous à notre",
+    "titleLine2": "Newsletter",
+    "emailLabel": "Adresse e-mail",
+    "emailPlaceholder": "E-mail",
+    "emailAria": "Adresse e-mail",
+    "submitLabel": "S’abonner",
+    "submitAria": "S’abonner à la newsletter"
+  },
+  "hiddenLinks": {
+    "products": "Voir les produits d’échafaudage",
+    "projects": "Explorer l’expérience projets",
+    "contact": "Demander des informations sur l’échafaudage au Liban ou un support technique",
+    "blog": "Systèmes d’échafaudage, sécurité des échafaudages et analyses techniques"
+  },
+  "externalSources": {
+    "internationalSafetyBoards": "Organismes internationaux de sécurité et ressources sur les normes d’échafaudage",
+    "internationalSafetyBoardsHref": "https://www.osha.gov/",
+    "publicWorksLebanon": "Ministère libanais des Travaux publics et des Transports",
+    "publicWorksLebanonHref": "https://www.mopwt.gov.lb/"
+  },
+  "fallback": {
+    "seoTitle": "Article de blog | ACHI Scaffolding",
+    "seoDescription": "Lisez les dernières analyses techniques d’ACHI Scaffolding sur les systèmes d’échafaudage, les travaux temporaires, la sécurité de chantier et la gestion des risques au Liban.",
+    "h1": "Article de blog",
+    "imageAlt": "Image d’un article de blog ACHI Scaffolding",
+    "category": "Systèmes d’échafaudage et sécurité",
+    "readingTime": "Temps de lecture : 4 min",
+    "takeaways": [
+      "Un échafaudage guidé par l’ingénierie améliore la sécurité et la planification.",
+      "Une exécution structurée réduit les risques sur les sites complexes.",
+      "La discipline professionnelle renforce les résultats, projet après projet."
+    ]
+  },
+  "posts": {
+    "1": {
+      "seoTitle": "Échafaudage au Liban : défis du secteur et absence de réglementation formelle | Blog ACHI",
+      "seoDescription": "L’échafaudage au Liban joue un rôle essentiel dans la construction et les travaux temporaires, mais le secteur fonctionne avec une réglementation formelle limitée et des normes inégales. Découvrez comment une approche guidée par l’ingénierie, la supervision technique et la gestion des risques améliorent la sécurité de chantier et la performance des projets.",
+      "canonical": "https://achi-scaffolding.github.io/blog-post-1",
+      "h1": "Échafaudage au Liban : défis du secteur et absence de réglementation formelle",
+      "imageAlt": "Image de couverture de l’article sur l’échafaudage au Liban",
+      "category": "Systèmes d’échafaudage et sécurité",
+      "readingTime": "Lecture : 5 min",
+      "takeaways": [
+        "Le Liban ne dispose pas d’une réglementation unifiée de l’échafaudage, entraînant des normes inégales selon les projets.",
+        "Une approche d’échafaudage guidée par l’ingénierie améliore la sécurité, la planification et la performance dans des environnements peu réglementés.",
+        "Renforcer les procédures internes et les référentiels est souvent la voie la plus efficace pour réduire le risque opérationnel."
+      ],
+      "sections": {
+        "regulatoryContext": {
+          "title": "Le contexte réglementaire de l’échafaudage au Liban",
+          "p1": "Contrairement aux marchés où les systèmes d’échafaudage et les travaux temporaires sont encadrés par des codes nationaux détaillés, le Liban s’appuie largement sur des pratiques générales du bâtiment et des exigences propres à chaque projet.",
+          "p2": "Par conséquent :",
+          "bullets": [
+            "Il n’existe pas de réglementation nationale unifiée pour l’échafaudage.",
+            "Les normes d’installation et d’utilisation des échafaudages varient d’un projet à l’autre.",
+            "La supervision dépend fortement des consultants, des développeurs ou des politiques des entrepreneurs."
+          ],
+          "p3": "Ce cadre fragmenté conduit à des approches inégales en matière de conception, d’installation et de gestion des risques et de la sécurité des échafaudages."
+        },
+        "risks": {
+          "title": "Risques liés à des normes d’échafaudage limitées",
+          "p1": "Lorsque l’échafaudage est principalement considéré comme une activité de location plutôt que comme un système technique, plusieurs risques peuvent apparaître :",
+          "bullets": [
+            "Niveaux de sécurité variables selon les chantiers.",
+            "Revue d’ingénierie limitée des échafaudages et des travaux temporaires.",
+            "Solutions réactives dictées par la pression du planning.",
+            "Exposition accrue sur les projets d’échafaudage en hauteur et en milieu urbain."
+          ],
+          "p2": "Ces risques sont amplifiés sur les bâtiments occupés, les développements commerciaux et les sites urbains denses, où l’échafaudage interagit directement avec l’environnement public."
+        },
+        "engineeringLed": {
+          "title": "L’importance d’un échafaudage guidé par l’ingénierie",
+          "p1": "En l’absence d’une réglementation stricte, les solutions d’échafaudage guidées par l’ingénierie jouent un rôle clé dans la maîtrise des risques.",
+          "bullets": [
+            "Stratégies d’accès planifiées plutôt qu’échafaudages improvisés.",
+            "Compatibilité entre les systèmes d’échafaudage et les conditions structurelles.",
+            "Coordination avec d’autres travaux temporaires tels que l’étaiement et le coffrage.",
+            "Alignement avec les contraintes réelles du site et le séquençage d’exécution."
+          ],
+          "p2": "Cette approche aide à standardiser la performance même lorsque les règles formelles sont limitées."
+        },
+        "beyondCompliance": {
+          "title": "Une responsabilité au-delà de la conformité minimale",
+          "p1": "Sur de nombreux projets au Liban, la conformité est définie par ce qui est accepté sur le chantier plutôt que par des normes formelles d’échafaudage.",
+          "p2": "Les entreprises d’échafaudage au Liban et les entrepreneurs d’échafaudage professionnels reconnaissent de plus en plus que :",
+          "bullets": [
+            "La sécurité ne doit pas dépendre uniquement de la réglementation.",
+            "Les travaux temporaires méritent une planification structurée.",
+            "Les procédures et contrôles internes réduisent les risques opérationnels et de réputation."
+          ],
+          "p3": "Rehausser les référentiels internes est souvent le moyen le plus efficace de gérer la sécurité des échafaudages dans des environnements peu réglementés."
+        },
+        "evolvingExpectations": {
+          "title": "Évolution des attentes dans le secteur de la construction au Liban",
+          "p1": "Les promoteurs, consultants et parties prenantes internationales opérant au Liban accordent davantage d’importance à la manière dont les services d’échafaudage au Liban et les travaux temporaires sont fournis.",
+          "p2": "La demande augmente pour :",
+          "bullets": [
+            "Une planification d’échafaudage documentée.",
+            "Des rôles et responsabilités définis.",
+            "Des processus d’installation et de démontage prévisibles.",
+            "Une exposition réduite aux risques de sécurité et aux risques opérationnels."
+          ],
+          "p3": "Cette évolution renforce l’intérêt de travailler avec une entreprise d’échafaudage Liban expérimentée et une supervision technique structurée."
+        },
+        "movingForward": {
+          "title": "Faire progresser le secteur de l’échafaudage",
+          "p1": "L’amélioration des pratiques d’échafaudage ne dépend pas uniquement de nouvelles réglementations. Elle dépend aussi de la manière dont les entrepreneurs choisissent d’opérer aujourd’hui.",
+          "p2": "Les progrès passent par :",
+          "bullets": [
+            "Traiter l’échafaudage comme un périmètre technique, et non comme une commodité.",
+            "Appliquer une discipline d’ingénierie à l’accès et aux travaux temporaires.",
+            "Prioriser la planification, la coordination et une culture de sécurité."
+          ],
+          "p3": "Ces pratiques contribuent à élever les standards du secteur, projet après projet."
+        },
+        "finalPerspective": {
+          "title": "Perspective finale",
+          "p1": "L’absence de réglementation formelle de l’échafaudage au Liban présente à la fois des défis et une responsabilité. Dans de tels environnements, le jugement d’ingénierie, l’exécution structurée, la supervision technique et la discipline professionnelle deviennent les principaux garde-fous de la sécurité de chantier et de la performance des projets."
+        },
+        "cta": {
+          "title": "Discutons de vos besoins en échafaudage",
+          "p1": "Pour l’échafaudage et les travaux temporaires au Liban, travailler avec une entreprise d’échafaudage Liban guidée par l’ingénierie aide à réduire l’incertitude et à améliorer les résultats sur les projets complexes ou à haut risque.",
+          "p2": "Demandez un accompagnement de projet pour analyser les conditions du site, les exigences d’accès, les contraintes d’exécution et la gestion des risques, avec une approche orientée conformité aux exigences de sécurité."
+        }
+      },
+      "conclusion": "Dans des environnements peu réglementés, la performance constante des échafaudages dépend du jugement d’ingénierie, d’une planification structurée, d’une exécution disciplinée et d’une supervision technique, projet après projet."
+    },
+    "2": {
+      "seoTitle": "Que sont les travaux temporaires en construction ? Définition, types et sécurité de chantier | Blog ACHI",
+      "seoDescription": "Les travaux temporaires permettent un séquençage sûr et efficace sur les chantiers. Découvrez la définition, les types courants (échafaudage, étaiement, coffrage), et pourquoi une planification guidée par l’ingénierie, la supervision technique et la gestion des risques sont essentielles sur les projets complexes au Liban.",
+      "canonical": "https://achi-scaffolding.github.io/blog-post-2",
+      "h1": "Que sont les travaux temporaires en construction ?",
+      "imageAlt": "Image de couverture : travaux temporaires en construction",
+      "category": "Travaux temporaires et ingénierie de chantier",
+      "readingTime": "Lecture : 5 min",
+      "takeaways": [
+        "Les travaux temporaires soutiennent un séquençage sûr jusqu’à ce que les ouvrages permanents deviennent autoportants.",
+        "L’échafaudage, l’étaiement et le coffrage sont des systèmes temporaires clés qui influencent directement la sécurité de chantier et la stabilité.",
+        "Une planification guidée par l’ingénierie réduit les risques et améliore la prévisibilité sur les sites complexes et urbains."
+      ],
+      "sections": {
+        "intro": {
+          "title": "Introduction",
+          "p1": "Les travaux temporaires constituent une composante essentielle mais souvent mal comprise des projets de construction. Ils permettent de réaliser les ouvrages permanents en toute sécurité, efficacement et dans le bon ordre, sans faire partie de la structure finale.",
+          "p2": "Comprendre ce que sont les travaux temporaires et pourquoi ils comptent est indispensable pour les promoteurs, ingénieurs et entrepreneurs impliqués dans des environnements de construction complexes au Liban, notamment lorsque l’accès est contraint et que la gestion des risques est critique."
+        },
+        "definition": {
+          "title": "Définition des travaux temporaires",
+          "p1": "En construction, les travaux temporaires désignent toutes les structures, systèmes et mesures nécessaires pour soutenir les activités de chantier jusqu’à ce que les ouvrages permanents deviennent autoportants.",
+          "p2": "Ils sont conçus pour une durée d’utilisation limitée, mais ils influencent directement :",
+          "bullets": [
+            "La sécurité du chantier",
+            "La stabilité structurelle",
+            "Le séquençage des travaux",
+            "L’efficacité du projet"
+          ],
+          "p3": "Malgré leur caractère temporaire, leur impact sur la performance du projet est durable."
+        },
+        "commonTypes": {
+          "title": "Types courants de travaux temporaires",
+          "p1": "Les travaux temporaires couvrent un large éventail d’applications dans les projets de construction et industriels, notamment :",
+          "bullets": [
+            "Systèmes d’échafaudage pour l’accès et les plateformes de travail",
+            "Systèmes d’étaiement et d’étais pour soutenir des éléments structurels",
+            "Coffrages utilisés pour former et maintenir le béton",
+            "Systèmes d’accès temporaires tels que rampes ou plateformes",
+            "Structures de protection pour la sécurité du public et du site"
+          ],
+          "p2": "Chaque type remplit une fonction spécifique et doit être adapté aux conditions du site et à la méthodologie de construction."
+        },
+        "whyCritical": {
+          "title": "Pourquoi les travaux temporaires sont essentiels",
+          "p1": "Les travaux temporaires ne sont pas des éléments secondaires : ce sont des systèmes essentiels.",
+          "p2": "Ils jouent un rôle central pour :",
+          "bullets": [
+            "Permettre aux activités de construction de se dérouler en sécurité",
+            "Soutenir les charges pendant les phases intermédiaires",
+            "Gérer l’accès sur les sites en hauteur, urbains ou contraints",
+            "Protéger les travailleurs, le public et les structures adjacentes"
+          ],
+          "p3": "Des défaillances ou un mauvais alignement des travaux temporaires peuvent perturber les délais, accroître les risques et affecter les résultats globaux du projet."
+        },
+        "vsPermanent": {
+          "title": "Travaux temporaires vs ouvrages permanents",
+          "p1": "Une distinction clé en planification est celle entre travaux temporaires et ouvrages permanents.",
+          "p2": "Les ouvrages permanents restent dans la structure achevée. Les travaux temporaires sont retirés une fois leur fonction accomplie.",
+          "p3": "Cependant, les travaux temporaires portent souvent des charges importantes et interagissent directement avec les structures permanentes pendant l’exécution, ce qui rend leur planification tout aussi critique."
+        },
+        "engineeringRole": {
+          "title": "Le rôle de l’ingénierie dans les travaux temporaires",
+          "p1": "Des travaux temporaires efficaces reposent sur une planification guidée par l’ingénierie, et non sur des solutions improvisées.",
+          "p2": "Une approche d’ingénierie garantit :",
+          "bullets": [
+            "La compatibilité avec les contraintes structurelles et architecturales",
+            "L’alignement avec le séquençage d’exécution",
+            "Des interfaces maîtrisées avec les autres activités du site",
+            "Une performance prévisible sur toute la durée d’utilisation"
+          ],
+          "p3": "Dans les environnements complexes ou peu réglementés, la discipline d’ingénierie et la supervision technique deviennent le principal garde-fou."
+        },
+        "complexUrban": {
+          "title": "Travaux temporaires sur projets complexes et urbains",
+          "p1": "Les travaux temporaires sont particulièrement critiques sur des projets impliquant :",
+          "bullets": [
+            "Construction en hauteur",
+            "Environnements urbains denses",
+            "Bâtiments occupés",
+            "Travaux industriels ou d’infrastructure"
+          ],
+          "p2": "Dans ces contextes, les systèmes temporaires doivent intégrer accès, sécurité de chantier et logistique, dans des contraintes spatiales et opérationnelles fortes."
+        },
+        "riskManagement": {
+          "title": "Responsabilité et gestion des risques",
+          "p1": "Les travaux temporaires impliquent une responsabilité au-delà de l’installation.",
+          "p2": "Une bonne gestion inclut :",
+          "bullets": [
+            "Définition claire du périmètre et des responsabilités",
+            "Coordination avec les entrepreneurs et les consultants",
+            "Suivi continu pendant la période d’utilisation",
+            "Modification ou retrait en temps utile selon l’évolution du chantier"
+          ],
+          "p3": "Traiter les travaux temporaires comme un périmètre technique réduit l’incertitude et améliore la maîtrise des risques."
+        },
+        "finalPerspective": {
+          "title": "Perspective finale",
+          "p1": "Les travaux temporaires peuvent ne pas apparaître dans le bâtiment final, mais ils jouent un rôle décisif dans la manière dont ce bâtiment est construit.",
+          "p2": "Lorsqu’ils sont planifiés et gérés avec une discipline d’ingénierie, ils favorisent une exécution sûre, un séquençage efficace, une conformité aux exigences de sécurité et une livraison prévisible."
+        },
+        "cta": {
+          "title": "Discutons de vos besoins en travaux temporaires",
+          "p1": "Pour les travaux temporaires et l’échafaudage sur les projets de construction au Liban, une planification précoce et une coordination guidée par l’ingénierie sont essentielles, en particulier sur les sites complexes ou à haut risque.",
+          "p2": "Demandez un accompagnement de projet pour analyser les exigences d’accès, les contraintes du site et la stratégie d’exécution — avec des systèmes d’accès temporaires, des services d’étaiement et une approche orientée gestion des risques."
+        }
+      },
+      "conclusion": "Lorsqu’ils sont planifiés et gérés avec une discipline d’ingénierie, les travaux temporaires permettent une exécution sûre, un séquençage efficace et une livraison prévisible, en particulier sur les projets complexes."
+    }
+  }
+ },
+
+
+  "singleService": {
+    "facades": {
+      "seo": {
+        "title": "Échafaudage de façade au Liban | ACHI Scaffolding",
+        "description": "Systèmes d’échafaudage de façade professionnels offrant un accès stable et continu le long des façades. Solutions d’ingénierie pour rénovation, maintenance et finitions architecturales au Liban (Beyrouth, Mont-Liban, Liban-Nord, Liban-Sud, Békaa).",
+        "canonical": "https://achi-scaffolding.github.io/services/serviceItem"
+      },
+      "schema": {
+        "name": "Échafaudage de façade",
+        "serviceType": "Échafaudage de façade"
+      },
+      "breadcrumbs": {
+        "home": "Accueil",
+        "services": "Services",
+        "facadeScaffolding": "Échafaudage de façade"
+      },
+      "hero": {
+        "h1": "Échafaudage de façade",
+        "intro": "Les systèmes d’échafaudage de façade sont conçus pour fournir un accès stable et continu le long des façades de bâtiments, tout en soutenant les travaux en hauteur dans des environnements urbains et contraints.",
+        "primaryButton": "Demander un support projet",
+        "primaryButtonAria": "Demander un support projet pour échafaudage de façade",
+        "secondaryButton": "Voir nos projets",
+        "secondaryButtonAria": "Voir nos projets d’échafaudage",
+        "stats": {
+          "0": { "label": "Accès conçu par ingénierie" },
+          "1": { "label": "Exécution par phases" },
+          "2": { "label": "Sécurité en zone publique" }
+        }
+      },
+      "overview": {
+        "paragraph": "Les systèmes d’échafaudage de façade offrent des plateformes d’accès fiables pour la rénovation, la maintenance et les finitions architecturales, avec une planification adaptée aux contraintes du site et à la géométrie du bâtiment.",
+        "chips": {
+          "0": "Travaux d’enveloppe extérieure",
+          "1": "Finitions architecturales",
+          "2": "Maintenance & inspection"
+        }
+      },
+      "images": {
+        "heroAlt": "Système d’accès par échafaudage de façade sur l’extérieur d’un bâtiment"
+      },
+      "keyTakeaways": {
+        "title": "Points clés",
+        "items": {
+          "0": "Solutions d’accès conçues par ingénierie, adaptées à la géométrie du bâtiment et aux contraintes du site",
+          "1": "Installation et démontage sûrs et maîtrisés pour bâtiments urbains et occupés",
+          "2": "Coordination avec entrepreneurs et gestion de chantier pour une exécution fluide du projet"
+        }
+      },
+      "toc": {
+        "title": "Sur cette page"
+      },
+      "intro": {
+        "paragraph": "L’échafaudage de façade est un système d’accès central dans de nombreux travaux temporaires au Liban, notamment pour les bâtiments commerciaux, résidentiels, la restauration et les environnements urbains où la sécurité de chantier et la fiabilité opérationnelle sont essentielles.",
+        "bulletLeadIn": "Ces systèmes sont couramment requis pour :",
+        "bullets": {
+          "0": "Travaux d’enveloppe extérieure et interventions sur façade",
+          "1": "Finitions architecturales et travaux de ravalement",
+          "2": "Activités de maintenance et d’inspection"
+        },
+        "closing": "Sur les sites complexes, l’accès de façade doit être planifié comme un périmètre technique : une approche d’ingénierie permet de répondre aux contraintes réelles, d’assurer la conformité aux exigences de sécurité et de réduire les risques."
+      },
+      "sections": {
+        "typicalApplications": {
+          "title": "Applications courantes",
+          "intro": "L’échafaudage de façade est utilisé sur une large variété de projets au Liban, notamment :",
+          "bullets": {
+            "0": "Bâtiments commerciaux et développements mixtes",
+            "1": "Immeubles résidentiels et tours",
+            "2": "Projets de rénovation, refurbishment et restauration de bâtiments",
+            "3": "Bâtiments occupés nécessitant un accès par phases",
+            "4": "Sites urbains avec emprise au sol limitée"
+          },
+          "closing": "Chaque application exige une stratégie d’accès sur mesure, alignée sur les conditions du site, la géométrie du bâtiment et la gestion des risques."
+        },
+        "urbanConstraints": {
+          "title": "Contraintes urbaines et contraintes de site",
+          "intro": "Les travaux de façade se déroulent souvent dans des environnements actifs et contraints, où les systèmes d’accès interagissent avec l’activité environnante et l’exposition au public.",
+          "leadIn": "Les contraintes les plus fréquentes incluent :",
+          "bullets": {
+            "0": "Rues étroites et retraits limités",
+            "1": "Circulation piétonne et exposition au public",
+            "2": "Variations de hauteur et complexité architecturale",
+            "3": "Coordination avec métiers en parallèle et logistique de chantier"
+          },
+          "closing": "L’échafaudage de façade doit donc être planifié pour maintenir un accès sûr tout en préservant la circulation et l’efficacité opérationnelle, en particulier à Beyrouth et au Mont-Liban."
+        },
+        "engineeringApproach": {
+          "title": "Approche d’exécution pilotée par l’ingénierie",
+          "intro": "Nos solutions d’échafaudage de façade suivent un processus de planification piloté par l’ingénierie, aligné sur les réalités du site et le séquencement des travaux.",
+          "leadIn": "Cette approche se concentre sur :",
+          "bullets": {
+            "0": "Compatibilité avec les conditions structurelles et architecturales",
+            "1": "Installation par phases alignée sur l’avancement du chantier",
+            "2": "Adaptabilité aux exigences évolutives du site",
+            "3": "Installation et démontage contrôlés"
+          },
+          "closing": "En traitant l’échafaudage de façade comme un périmètre technique, les systèmes d’accès restent prévisibles et fiables tout au long du cycle de vie du projet, avec supervision technique et qualité d’exécution."
+        },
+        "safetyCoordination": {
+          "title": "Sécurité et coordination",
+          "intro": "La sécurité des échafaudages et la coordination sont intégrées à l’exécution, en particulier sur les sites exposés au public.",
+          "leadIn": "Les points clés incluent :",
+          "bullets": {
+            "0": "Interfaces maîtrisées avec piétons et propriétés adjacentes",
+            "1": "Itinéraires d’accès définis et zones d’exclusion",
+            "2": "Coordination avec entrepreneurs, consultants et gestion de chantier",
+            "3": "Alignement continu avec le séquencement de construction"
+          },
+          "closing": "Ces mesures assurent des conditions de travail sûres, réduisent les perturbations et soutiennent la conformité aux exigences de sécurité et aux normes techniques du projet."
+        },
+        "whyMatters": {
+          "title": "Pourquoi l’échafaudage de façade est important",
+          "intro": "L’échafaudage de façade n’est pas seulement une solution d’accès : il impacte directement :",
+          "bullets": {
+            "0": "L’efficacité du travail en hauteur",
+            "1": "La sécurité de chantier et la protection du public",
+            "2": "Le séquencement et la continuité du projet"
+          },
+          "closing": "Un accès de façade bien planifié réduit les risques, évite les reprises et soutient une progression régulière sur les chantiers complexes, pour les bâtiments commerciaux, résidentiels et les contextes de travaux temporaires."
+        },
+        "locationCoverage": {
+          "title": "Zones couvertes et périmètre de service",
+          "text": "Nos services d’échafaudage de façade sont disponibles au Liban : Beyrouth, Mont-Liban, Liban-Nord, Liban-Sud et Békaa, pour des projets commerciaux, résidentiels et industriels."
+        }
+      },
+      "safetyCallout": {
+        "title": "Conformité & coordination",
+        "items": {
+          "0": "Interfaces maîtrisées avec piétons et propriétés adjacentes",
+          "1": "Itinéraires d’accès définis et zones d’exclusion",
+          "2": "Coordination avec entrepreneurs, consultants et gestion de chantier"
+        }
+      },
+      "coverage": {
+        "regions": {
+          "beirut": "Beyrouth",
+          "mountLebanon": "Mont-Liban",
+          "northLebanon": "Liban-Nord",
+          "southLebanon": "Liban-Sud",
+          "bekaa": "Békaa"
+        },
+        "subtext": "Au service de projets commerciaux, résidentiels et industriels."
+      },
+      "sidebar": {
+        "ctaTitle": "Besoin d’un échafaudage de façade ?",
+        "ctaText": "Obtenez une consultation experte pour vos exigences d’accès, les contraintes de site et la stratégie d’exécution.",
+        "ctaButton": "Demander un support projet",
+        "ctaAria": "Demander un support projet pour échafaudage de façade",
+        "resourcesTitle": "Ressources connexes",
+        "servicesLabel": "Tous les services",
+        "productsLabel": "Produits",
+        "projectsLabel": "Projets"
+      },
+      "cta": {
+        "title": "Discutons des exigences de votre projet",
+        "text1": "Pour un échafaudage de façade en milieu urbain, sur des immeubles de grande hauteur ou des bâtiments occupés, une coordination précoce est essentielle.",
+        "text2": "Contactez ACHI Scaffolding pour examiner les exigences d’accès, les contraintes de site et la stratégie d’exécution.",
+        "buttonText": "Demander un support projet",
+        "buttonAria": "Demander un support projet pour échafaudage de façade"
+      },
+      "contact": {
+        "ariaLabel": "Demander une consultation technique"
+      }
+    }
+  }
+
+
+
+
+
+
+
+}
+
+
+
+
+
+

@@ -1,0 +1,111 @@
+{
+    "header":{
+        "Lebanon" : "Lebanon"
+    },
+    "langDropwn" : {
+        "arabic" : "Arabic",
+        "english" : "English"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About us",
+        "contact": "Contact Us",
+        "services": "Services",
+        "clients": "Clients",
+        "projects": "Projects",
+        "gallery": "Gallery",
+        "marketplace" : "Marketplace"
+    },
+    "banner1" : {
+        "title" : "Scaffolding & \n shoring services",
+        "subtitle" : "Professional scaffolding services since 1993.",
+        "button" : "send us your enquiry over whatsapp"
+    },
+    "banner2" : {
+        "title" : "we are ready for your \n project in all lebanon",
+        "subtitle" : "Full-service scaffolding contracting since 1993. ",
+        "button" : "send us your enquiry over whatsapp"
+    },
+    "banner3" : {
+        "title" : "We sell used &\n new equipement",
+        "subtitle" : "Supply of New and Used construction equipment",
+        "button" : "send us your enquiry over whatsapp"
+    },
+    "service" : {
+        "title" : "Our Services",
+        "firstService" : "Installation and rental of scaffolding for Facades",
+        "secondService" : "Installation and rental of Suspended scaffolding",
+        "thirdService" : "Propping and shoring systems",
+        "fourthService" : "Installation and rental of scaffolding for indoor spaces",
+        "fifthService" : "Installation and rental of high capacity structures",
+        "sixthService" : "Adjustable props rental & Sales",
+        "seventhService" : "Scaffolding design",
+        "eighthService" : "Digital services",
+        "ninthService" : "Specialized Laborforce",
+        "tenthService" : "High-Rise Scaffolding",
+        "eleventhService" : "Circular & Dome Scaffolding",
+        "twelfthService" : "Scaffolding for Events",
+        "thirteenthService" : "Industrial Scaffolding",
+        "fourteenthService" : "Roof Scaffolding",
+        "fifteenthService" : "Mobile Suspended Scaffolding (for Bridges)",
+        "sixteenthService" : "Scaffolding Access Stairs",
+        "seventeenthService" : "Unloading & Loading Platforms",
+        "contactBtn" : "Contact us",
+        "title2" : "Professionals initiative",
+        "title2br" : "Professionals \ninitiative"
+    },
+    "aboutUs" : {
+        "titleMultiLine" : "30+ years of\n SCAFFOLDING\n experience",
+        "title" : "30+ years of SCAFFOLDING experience",
+        "description" : "Since its establishment in 1993 by engineer Barbar Achi, Achi Scaffolding has evolved into a reputable provider of expert scaffolding and formwork services in Lebanon. Our professional team takes immense pride in building a solid foundation of trust by delivering reliable and high-quality scaffold structures for diverse projects, including shopping malls, towers, residential buildings, and universities.",
+        "additionalText" : "Give us call or send us your inquiry over whatsapp for prompt response"
+    },
+    "clients" : {
+        "title" : "Our Clients"
+    },
+    "vision" : {
+        "title" : "Our vision",
+        "description" : "At Achi Scaffolding, we're charting a visionary course towards a future where scaffolding isn't merely a structural necessity; it's an embodiment of innovation, unparalleled safety, and sustainable advancement, defining the infrastructure of tomorrow.",
+        "btnText" : "invest with us"
+    },
+    "mission" : {
+        "title" : "the mission",
+        "description" : "We specialize in comprehensive scaffolding services, from rental to installation,\n and sell and export a diverse range of new and used construction equipment in the Middle East and Africa.",
+        "btnText" : "let's talk"
+    },
+    "values" : {
+        "title" : "Values",
+        "firstValueTitle" : "Safety First",
+        "firstValueDescription" : "Ensuring a safe environment for our workers and clients is paramount.",
+        "secondValueTitle" : "Quality Commitment",
+        "secondValueDescription" : "We deliver only the highest quality in all our projects.",
+        "thirdValueTitle" : "Innovation",
+        "thirdValueDescription" : "We embrace the latest technologies and methodologies in the scaffolding industry.",
+        "fourthValueTitle" : "Sustainability",
+        "fourthValueDescription" : "We prioritize eco-friendly practices for a better future",
+        "fifthValueTitle" : "Partnership",
+        "fifthValueDescription" : "Building strong and lasting relationships with our clients and suppliers.",
+        "sixthValueTitle" : "Integrity",
+        "sixthValueDescription" : "We operate with transparency, honesty, and ethical standards."
+    },
+    "testimonials" : {
+        "title" : "What our clients say about us"
+    },
+    "contactForm" : {
+        "titleDesktop" : "Let’s talk!",
+        "titleMobile" : "Start your project now",
+        "btnText" : "Send"
+    },
+    "footer" : {
+        "ourcontacts" : "Our contacts",
+        "contactus": "Contact us",
+        "followus": "Follow us"
+    },
+    "inputs" : {
+        "emailPlaceholder" : "Email",
+        "namePlaceholder" : "Name",
+        "phonePlaceholder" : "Phone",
+        "messagePlaceholder" : "Write something..."
+    }
+}
+

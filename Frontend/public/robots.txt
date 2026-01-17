@@ -1,0 +1,35 @@
+# https://www.robotstxt.org/robotstxt.html
+# Robots.txt for ACHI Scaffolding
+# Allow all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Disallow locale-prefixed URLs to prevent duplicate content
+# Canonical URLs should point to base URLs without /fr or /lb
+# These are handled client-side for language switching, but canonical URLs are language-agnostic
+Disallow: /fr/
+Disallow: /lb/
+
+# Disallow admin/internal pages (if they exist)
+Disallow: /admin/
+Disallow: /login/
+Disallow: /dashboard/
+
+# Allow assets and resources
+Allow: /assets/
+Allow: /fonts/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.webp
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.woff
+Allow: /*.woff2
+Allow: /*.ttf
+
+# Sitemap location
+Sitemap: https://achi-scaffolding.github.io/sitemap.xml

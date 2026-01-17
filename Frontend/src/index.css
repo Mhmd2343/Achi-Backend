@@ -1,0 +1,7 @@
+.hero-title-rajdhani {
+  font-family: var(--app-font, "Open Sans", Arial, Helvetica, sans-serif) !important;
+  font-size: 42px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 0 12px;
+}
