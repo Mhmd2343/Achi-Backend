@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+﻿@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@200;400;600&family=Rubik:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;300;400;500;600;700&display=swap');
@@ -791,10 +791,10 @@ html[dir="rtl"] #sectors main > section:nth-of-type(2) article p * {
 
 #testimonials .slick-slide.slick-current .snip1533 figcaption:before,
 #testimonials .slick-slide.myslick-current .snip1533 figcaption:before {
-  content: url(../public/assets/quoteactive.svg) !important;
+content: ""; background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2264%22%20height%3D%2264%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20d%3D%22M14%2018h18v18H22c0%206%204%2010%2010%2010v10C20%2056%2014%2048%2014%2036V18zm28%200h18v18H50c0%206%204%2010%2010%2010v10C48%2056%2042%2048%2042%2036V18z%22/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: center; background-size: 28px 28px;
 }
 #testimonials .slick-slide .snip1533 figcaption:before {
-  content: url(../public/assets/quoteblue.svg) !important;
+content: ""; background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2264%22%20height%3D%2264%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20fill%3D%22%2328509E%22%20d%3D%22M14%2018h18v18H22c0%206%204%2010%2010%2010v10C20%2056%2014%2048%2014%2036V18zm28%200h18v18H50c0%206%204%2010%2010%2010v10C48%2056%2042%2048%2042%2036V18z%22/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: center; background-size: 28px 28px;
 }
 
 #testimonials .slick-slide {
@@ -829,11 +829,23 @@ html[dir="rtl"] #sectors main > section:nth-of-type(2) article p * {
     padding: 0px 10px !important;
   }
   
-  #testimonials .slick-slide.slick-current,
-  #testimonials .slick-slide.myslick-current {
-    padding: 0px 10px !important;
-    padding-right: 30px !important;
-  }
+#testimonials .slick-slide.slick-current .snip1533 figcaption:before,
+#testimonials .slick-slide.myslick-current .snip1533 figcaption:before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2264%22%20height%3D%2264%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20d%3D%22M14%2018h18v18H22c0%206%204%2010%2010%2010v10C20%2056%2014%2048%2014%2036V18zm28%200h18v18H50c0%206%204%2010%2010%2010v10C48%2056%2042%2048%2042%2036V18z%22/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 28px 28px;
+}
+
+
+#testimonials .slick-slide .snip1533 figcaption:before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2264%22%20height%3D%2264%22%20viewBox%3D%220%200%2064%2064%22%3E%3Cpath%20fill%3D%22%2328509E%22%20d%3D%22M14%2018h18v18H22c0%206%204%2010%2010%2010v10C20%2056%2014%2048%2014%2036V18zm28%200h18v18H50c0%206%204%2010%2010%2010v10C48%2056%2042%2048%2042%2036V18z%22/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 28px 28px;
+}
   
 }
 
