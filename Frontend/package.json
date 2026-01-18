@@ -1,6 +1,6 @@
 {
   "name": "achiscaffolding",
-  "homepage": "https://github.com/Mhmd2343/Achi-Backend",
+  "homepage": "https://mhmd2343.github.io/Achi-Backend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,6 +35,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "postbuild": "node scripts/copy-404.js",
+
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "webp": "node ./scripts/generateWebp.js"
@@ -58,7 +59,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
     "tailwindcss": "^3.2.7"
   }
 }

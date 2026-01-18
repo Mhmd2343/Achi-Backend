@@ -1,5 +1,5 @@
-// src/pages/Home.js
-import React from "react"
+// Frontend/src/pages/Home.js
+import React, { useMemo } from "react"
 import Company from "../components/Company"
 import ContactForm from "../components/ContactForm"
 import Hero from "../components/Hero"
@@ -10,19 +10,31 @@ import Clients from "../components/Clients"
 import Testimonials from "../components/Testimonials"
 import BlogSection from "../components/BlogSection"
 import SectorsBar from "../components/SectorsBar"
-import SEO from "../components/SEO"
 import SmartLink from "../seo/SmartLink"
+import useHomeConfig from "../cms/useHomeConfig"
 
 const Home = ({ showMenu, setshowMenu, direction, userLang }) => {
   const ASSET = process.env.PUBLIC_URL || ""
+  const { config } = useHomeConfig()
+
+  const seo = useMemo(() => {
+    const fallback = {
+      title: "Industrial & Construction Scaffolding Systems | ACHI",
+      description:
+        "ACHI Scaffolding delivers access systems, shoring, and scaffolding solutions for construction, restoration, and industrial projects. Request technical consultation.",
+      canonical: "https://achi-scaffolding.github.io/"
+    }
+
+    const title = (config?.seo?.title || "").trim() || fallback.title
+    const description = (config?.seo?.description || "").trim() || fallback.description
+    const canonical = (config?.seo?.canonical || "").trim() || fallback.canonical
+
+    return { title, description, canonical }
+  }, [config])
 
   return (
     <main>
-      <SEO
-        title="Industrial & Construction Scaffolding Systems | ACHI"
-        description="ACHI Scaffolding delivers access systems, shoring, and scaffolding solutions for construction, restoration, and industrial projects. Request technical consultation."
-        canonical="https://achi-scaffolding.github.io/"
-      />
+
       <div className="sr-only">
         <h1>Industrial &amp; Construction Scaffolding Systems Built for Safety, Precision, and Scale</h1>
 
@@ -106,16 +118,45 @@ const Home = ({ showMenu, setshowMenu, direction, userLang }) => {
         <img className="w-[50px] h-[50px] md:w-[60px] md:h-[60px]" src={`${ASSET}/assets/logos_whatsapp-icon.png`} alt="WhatsApp" />
       </a>
 
-      <Hero showMenu={showMenu} setshowMenu={setshowMenu} direction={direction} userLang={userLang} />
-      <ProjectsOverview />
-      <ServiceSection />
-      <Company />
-      <Clients direction={direction} />
-      <WhyChoseUs direction={direction} />
-      <SectorsBar />
-      <Testimonials direction={direction} />
-      <BlogSection />
-      <ContactForm />
+      <section id="hero">
+        <Hero showMenu={showMenu} setshowMenu={setshowMenu} direction={direction} userLang={userLang} />
+      </section>
+
+      <section id="projects">
+        <ProjectsOverview />
+      </section>
+
+      <section id="services">
+        <ServiceSection />
+      </section>
+
+      <section id="company">
+        <Company />
+      </section>
+
+      <section id="clients">
+        <Clients direction={direction} />
+      </section>
+
+      <section id="why">
+        <WhyChoseUs direction={direction} />
+      </section>
+
+      <section id="sectors">
+        <SectorsBar />
+      </section>
+
+      <section id="testimonials">
+        <Testimonials direction={direction} />
+      </section>
+
+      <section id="blog">
+        <BlogSection />
+      </section>
+
+      <section id="contactform">
+        <ContactForm />
+      </section>
     </main>
   )
 }

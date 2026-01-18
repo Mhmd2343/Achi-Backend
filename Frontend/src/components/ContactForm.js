@@ -124,11 +124,12 @@ const ContactForm = ({ decreaseMargin }) => {
   const whatsappUrl = `https://wa.me/${whatsappNumber.replace(/[^0-9]/g, "")}`;
 
   return (
-    <section
-      className={`bg-[#f5f7fa] w-full ${decreaseMargin ? "mt-0" : "mt-[100px]"}`}
-      id="contactForm"
-      aria-labelledby="contact-form-title"
-    >
+<section
+  className={`bg-[#f5f7fa] w-full ${decreaseMargin ? "mt-0" : "mt-[100px]"}`}
+  id="contactform"
+  aria-labelledby="contact-form-title"
+>
+
       <div className="max-w-[1200px] mx-auto px-[20px] md:px-[40px] py-[60px] md:py-[80px]">
         {/* Hero Section */}
         <header className="text-center mb-[50px] md:mb-[60px]">
